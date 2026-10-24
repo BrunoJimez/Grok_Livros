@@ -1,0 +1,43 @@
+# Notas do tradutor
+
+Estas notas registram as principais decisões terminológicas e estilísticas adotadas na tradução brasileira de *The Book of Why: The New Science of Cause and Effect*, de Judea Pearl e Dana Mackenzie, publicada nesta edição sob o título *O Livro do Porquê: A nova ciência de causa e efeito*. O objetivo não é esgotar cada escolha lexical, mas explicitar critérios que permitam ao leitor — especialmente ao estudante e ao pesquisador — navegar com segurança entre o original em inglês e a versão em português, e entre as diversas tradições disciplinares (estatística, epidemiologia, ciência da computação, economia e filosofia) que o livro articula.
+
+## Causalidade e causação
+
+O par inglês *causality* / *causation* não tem equivalente estável e unívoco em português. Em filosofia, “causalidade” costuma designar o problema geral da relação de causa e efeito, ao passo que “causação” pode marcar o ato ou o evento de causar. Na literatura epidemiológica e estatística brasileira, porém, **causalidade** já se consolidou como termo guarda-chuva: fala-se em “inferência causal”, “modelos de causalidade”, “critérios de causalidade” (Hill) e “causalidade probabilística”. Nesta tradução, adotamos **causalidade** como padrão, reservando **causação** apenas quando o contraste com *causality* for conceitualmente necessário — por exemplo, ao discutir “probabilidades de causação” (*probabilities of causation*: PN, PS, PNS) no sentido técnico de atribuição de responsabilidade a um evento particular. O subtítulo *cause and effect* foi vertido como “causa e efeito”, fórmula já clássica e legível.
+
+## Confundimento, não “confusão”
+
+*Confounding* e *confounder* são pedras angulares do livro. A tradução “confusão” / “variável de confusão”, ainda encontrada em textos antigos, é ambígua em português: sugere desordem cognitiva, não o viés sistemático que nasce de uma causa comum não controlada. A epidemiologia brasileira contemporânea prefere **confundimento** e **confundidor**, termos que adotamos de ponta a ponta. O neologismo correlato **desconfundimento** (*deconfounding*) e **desconfundidor** (*deconfounder*) acompanha a mesma família lexical e preserva a simetria do original. “Viés de confundimento” (*confounding bias*) e “critério da porta dos fundos” para eliminar esse viés formam, juntos, o vocabulário central do Capítulo 4.
+
+## Contrafactual, não “contrário aos fatos”
+
+*Counterfactual* tem tradução natural e já consagrada em filosofia e em econometria: **contrafactual** (e o plural **contrafactuais**). Alternativas como “contrário aos fatos” ou “contrafactualidade” foram evitadas no corpo do texto por excesso de peso e por se afastarem do uso técnico. Mantivemos, contudo, a clareza pedagógica de Pearl: o contrafactual é a pergunta “o que *teria* acontecido se…?”, o terceiro degrau da Escada da Causalidade. Quando o original fala em *would-haves*, optamos ocasionalmente por glosas como “teria sido” ou “os *would-haves*”, preservando o neologismo do autor entre aspas ou em itálico.
+
+## A Escada da Causalidade
+
+*Ladder of Causation* é a metáfora estruturante do livro. Traduzimo-la como **Escada da Causalidade**, com capitalização de conceito, em paralelo a outras construções do original (Revolução Causal, Monte Intervenção). Os três degraus — **associação** (*association*), **intervenção** (*intervention*) e **contrafactuais** (*counterfactuals*) — seguem o glossário canônico desta edição. “Rung” foi vertido como **degrau**, não como “nível” (embora “nível” apareça em contextos mais genéricos), para manter a imagem da escada. A oposição *seeing vs. doing* (“ver *versus* fazer”) atravessa o texto e foi tratada com consistência tipográfica.
+
+## Porta dos fundos e porta da frente
+
+*Back-door* (ou *backdoor*) e *front-door* (ou *frontdoor*) são critérios gráficos de Pearl para identificação de efeitos causais. Traduções literais — **porta dos fundos** e **porta da frente** — já circulam em cursos e textos em português e preservam a imagem espacial do diagrama: um caminho que “entra pela porta de trás” de *X* (via causas comuns) versus um caminho que “sai pela porta da frente” (via mediadores). Na primeira ocorrência de cada termo, e no índice remissivo, registramos o original em inglês entre parênteses. Os compostos *backdoor adjustment*, *backdoor criterion*, *backdoor path* e seus análogos *front-door* foram vertidos de modo uniforme: **ajustamento pela porta dos fundos**, **critério da porta dos fundos**, **caminho da porta dos fundos**, e assim por diante.
+
+## O operador *do* e o cálculo *do*
+
+O *do-operator*, notado *do*(·), é o dispositivo formal que distingue observação de intervenção. Não o “aportuguesamos”: mantemos **operador *do*** e a notação matemática *do*(*X*), *P*(*Y* | *do*(*X*)), etc., exatamente como no original. O mesmo vale para o **cálculo *do*** (*do-calculus*), as **expressões *do*** e as ***do*-probabilidades**. A escolha evita confusão com o verbo português “do” (contração de “de + o”) e alinha a edição brasileira à literatura internacional, na qual *do* já funciona como símbolo técnico. Em contraste, *adjustment* foi traduzido preferencialmente por **ajustamento** (ou, em contextos epidemiológicos, “controle por covariáveis”), e *identification* por **identificação** no sentido de recuperar um efeito a partir de dados e pressupostos.
+
+## Modelo causal estrutural, DAG e resultados potenciais
+
+*Structural Causal Model* (SCM) torna-se **modelo causal estrutural (MCE)**; após a primeira ocorrência, a sigla MCE coexiste com o inglês SCM quando a notação o exige. *Directed acyclic graph* aparece como **grafo acíclico dirigido (DAG)** — a ordem “acíclico dirigido” segue o uso em computação e em epidemiologia no Brasil; a sigla DAG é mantida. *Path analysis* e *path diagram* de Sewall Wright são **análise de caminhos** e **diagrama de caminhos**. Do lado da tradição Neyman–Rubin, *potential outcomes* são **resultados potenciais**, e *average treatment effect* / *effect of treatment on the treated* são **efeito médio do tratamento (ATE / EMT)** e **efeito do tratamento nos tratados (ETT)**, com as siglas inglesas preservadas quando notacionais.
+
+## Termos satélites e anglicismos
+
+Outras escolhas recorrentes: *collider* → **colisor**; *mediator* / *mediation* → **mediador** / **mediação**; *instrumental variable* → **variável instrumental**; *selection bias* → **viés de seleção**; *propensity score* → **escore de propensão**; *matching* → **pareamento**; *transportability* → **transportabilidade**; *exchangeability* → **trocabilidade**; *randomized controlled trial* → **ensaio clínico randomizado (ECR)** (com menção a “experimento controlado aleatorizado” quando o contexto histórico o pede). *Big Data* aparece em itálico na primeira ocorrência e depois como ***big data***; *deep learning* como **aprendizado profundo**; *artificial intelligence* como **inteligência artificial (IA)**. Nomes próprios (Judea Pearl, Sewall Wright, Ronald Fisher, etc.) e títulos de obras (*Causality*, *Sapiens*, *The Design of Experiments*) permanecem no original, conforme a prática acadêmica.
+
+## Estilo e tom
+
+O original combina rigor formal com prosa conversacional, anedotas históricas e ironia. Buscamos um português brasileiro culto, fluido, sem regionalismos desnecessários e sem calques sintáticos do inglês (“é importante notar que…”, “no final do dia…”). Equações, setas em DAGs e símbolos (*X*, *Y*, *M*, *do*(·)) foram preservados. Nas notas do autor, o texto explicativo foi traduzido; citações bibliográficas e títulos de artigos permaneceram em inglês. Na bibliografia, um cabeçalho avisa o leitor de que os títulos de obras não foram traduzidos. O índice remissivo foi reconstruído alfabeticamente em português, com remissivas do termo inglês para os conceitos técnicos de busca habitual.
+
+## Por que explicitar essas escolhas
+
+A Revolução Causal de Pearl não é apenas um conjunto de teoremas: é também uma **reforma linguística**. O livro insiste em que a estatística do século XX se privou, deliberadamente, de palavras para causa e efeito — e que recuperar essas palavras é condição para recuperar as perguntas. Traduzir o livro é, portanto, participar dessa reforma em outra língua. Optar por “confundimento” em vez de “confusão”, por “porta dos fundos” em vez de deixar *backdoor* sem tradução, ou por manter *do*(·) intacto, não são preciosismos: são decisões que determinam se o leitor brasileiro herdará o mesmo aparato conceitual que o original constrói. Estas notas pretendem tornar essas decisões transparentes e, quando for o caso, revisáveis — porque a própria ciência da causalidade, como Pearl não se cansa de lembrar, avança corrigindo pressupostos, não escondendo-os.

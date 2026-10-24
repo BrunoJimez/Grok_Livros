@@ -1,0 +1,14 @@
+# Prefácio
+
+Há quase duas décadas, quando escrevi o prefácio de meu livro *Causality* (2000), fiz uma observação bastante ousada, que amigos me aconselharam a suavizar. “A causalidade sofreu uma grande transformação”, escrevi, “de um conceito envolto em mistério a um objeto matemático com semântica bem definida e lógica bem fundamentada. Paradoxos e controvérsias foram resolvidos, conceitos escorregadios foram esclarecidos, e problemas práticos que dependem de informação causal e que por muito tempo foram tidos como metafísicos ou intratáveis agora podem ser solucionados com matemática elementar. Em suma, a causalidade foi matematizada.”
+
+Relendo essa passagem hoje, sinto que fui um tanto míope. O que descrevi como uma “transformação” revelou-se uma “revolução” que mudou o pensamento em muitas das ciências. Muitos a chamam agora de “Revolução Causal”[^1], e a empolgação que ela tem gerado nos círculos de pesquisa está se espalhando para a educação e as aplicações. Creio que chegou a hora de compartilhá-la com um público mais amplo.
+
+Este livro busca cumprir uma missão de três frentes: primeiro, apresentar a você, em linguagem não matemática, o conteúdo intelectual da Revolução Causal e o modo como ela está afetando nossas vidas, bem como nosso futuro; segundo, partilhar algumas das jornadas heroicas — bem-sucedidas e fracassadas — que cientistas empreenderam ao se depararem com perguntas críticas de causa e efeito. Por fim, devolvendo a Revolução Causal ao seu ventre na inteligência artificial, pretendo descrever como se podem construir robôs que aprendam a se comunicar em nossa língua materna — a linguagem de causa e efeito. Essa nova geração de robôs deverá nos explicar por que as coisas aconteceram, por que reagiram da maneira que reagiram, e por que a natureza opera de um modo e não de outro. Mais ambiciosamente, deverão também nos ensinar sobre nós mesmos: por que nossa mente clica do jeito que clica e o que significa pensar racionalmente sobre causa e efeito, crédito e arrependimento, intenção e responsabilidade.
+
+Quando escrevo equações, tenho uma ideia muito clara de quem são meus leitores. Não é o caso quando escrevo para o público geral — uma aventura inteiramente nova para mim. Estranho, mas essa experiência tem sido uma das viagens educativas mais recompensadoras de minha vida. A necessidade de moldar ideias em sua linguagem, de imaginar seu repertório, suas perguntas e suas reações, fez mais por afiar minha compreensão da causalidade do que todas as equações que escrevi antes deste livro. Por isso serei para sempre grato a você. Espero que esteja tão entusiasmado quanto eu para ver os resultados.
+
+Judea Pearl  
+Los Angeles, outubro de 2017
+
+[^1]: N. do T.: *Causal Revolution* — termo central do livro, capitalizado como conceito histórico-científico, à maneira de “Revolução Científica”.
