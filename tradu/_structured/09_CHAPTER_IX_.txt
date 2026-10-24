@@ -1,0 +1,811 @@
+CHAPTER IX.
+
+CONTROVERSY RESPECTING THE GOVERNMENT OF THE UNIVERSE.
+
+     There are two conceptions of the government of the world: 1.
+     By Providence; 2. By Law.--The former maintained by the
+     priesthood.--Sketch of the introduction of the latter.
+
+     Kepler discovers the laws that preside over the solar
+     system.--His works are denounced by papal authority.--The
+     foundations of mechanical philosophy are laid by Da Vinci.--
+     Galileo discovers the fundamental laws of Dynamics.--Newton
+     applies them to the movements of the celestial bodies, and
+     shows that the solar system is governed by mathematical
+     necessity.--Herschel extends that conclusion to the
+     universe.--The nebular hypothesis.--Theological exceptions
+     to it.
+
+     Evidences of the control of law in the construction of the
+     earth, and in the development of the animal and plant
+     series.--They arose by Evolution, not by Creation.
+
+     The reign of law is exhibited by the historic career of
+     human societies, and in the case of individual man.
+
+     Partial adoption of this view by some of the Reformed
+     Churches.
+
+
+Two interpretations may be given of the mode of government of the world.
+It may be by incessant divine interventions, or by the operation of
+unvarying law.
+
+To the adoption of the former a priesthood will always incline, since
+it must desire to be considered as standing between the prayer of the
+votary and the providential act. Its importance is magnified by the
+power it claims of determining what that act shall be. In the pre
+Christian (Roman) religion, the grand office of the priesthood was the
+discovery of future events by oracles, omens, or an inspection of the
+entrails of animals, and by the offering of sacrifices to propitiate the
+gods. In the later, the Christian times, a higher power was claimed; the
+clergy asserting that, by their intercessions, they could regulate the
+course of affairs, avert dangers, secure benefits, work miracles, and
+even change the order of Nature.
+
+Not without reason, therefore, did they look upon the doctrine of
+government by unvarying law with disfavor. It seemed to depreciate
+their dignity, to lessen their importance. To them there was something
+shocking in a God who cannot be swayed by human entreaty, a cold,
+passionless divinity--something frightful in fatalism, destiny.
+
+But the orderly movement of the heavens could not fail in all ages to
+make a deep impression on thoughtful observers--the rising and setting
+of the sun; the increasing or diminishing light of the day; the waxing
+and waning of the moon; the return of the seasons in their proper
+courses; the measured march of the wandering planets in the sky--what
+are all these, and a thousand such, but manifestations of an orderly and
+unchanging procession of events? The faith of early observers in this
+interpretation may perhaps have been shaken by the occurrence of such a
+phenomenon as an eclipse, a sudden and mysterious breach of the ordinary
+course of natural events; but it would be resumed in tenfold strength as
+soon as the discovery was made that eclipses themselves recur, and may
+be predicted.
+
+Astronomical predictions of all kinds depend upon the admission of this
+fact--that there never has been and never will be any intervention in
+the operation of natural laws. The scientific philosopher affirms that
+the condition of the world at any given moment is the direct result
+of its condition in the preceding moment, and the direct cause of its
+condition in the subsequent moment. Law and chance are only different
+names for mechanical necessity.
+
+About fifty years after the death of Copernicus, John Kepler, a native
+of Wurtemberg, who had adopted the heliocentric theory, and who was
+deeply impressed with the belief that relationships exist in the
+revolutions of the planetary bodies round the sun, and that these if
+correctly examined would reveal the laws under which those movements
+take place, devoted himself to the study of the distances, times, and
+velocities of the planets, and the form of their orbits. His method
+was, to submit the observations to which he had access, such as those
+of Tycho Brahe, to computations based first on one and then on another
+hypothesis, rejecting the hypothesis if he found that the calculations
+did not accord with the observations. The incredible labor he had
+undergone (he says, "I considered, and I computed, until I almost went
+mad") was at length rewarded, and in 1609 he published his book, "On the
+Motions of the Planet Mars." In this he had attempted to reconcile the
+movements of that planet to the hypothesis of eccentrics and epicycles,
+but eventually discovered that the orbit of a planet is not a circle but
+an ellipse, the sun being in one of the foci, and that the areas swept
+over by a line drawn from the planet to the sun are proportional to the
+times. These constitute what are now known as the first and second laws
+of Kepler. Eight years subsequently, he was rewarded by the discovery
+of a third law, defining the relation between the mean distances of the
+planets from the sun and the times of their revolutions; "the squares of
+the periodic times are proportional to the cubes of the distances." In
+"An Epitome of the Copernican System," published in 1618, he announced
+this law, and showed that it holds good for the satellites of Jupiter as
+regards their primary. Hence it was inferred that the laws which preside
+over the grand movements of the solar system preside also over the less
+movements of its constituent parts.
+
+The conception of law which is unmistakably conveyed by Kepler's
+discoveries, and the evidence they gave in support of the heliocentric
+as against the geocentric theory, could not fail to incur the
+reprehension of the Roman authorities. The congregation of the Index,
+therefore, when they denounced the Copernican system as utterly contrary
+to the Holy Scriptures, prohibited Kepler's "Epitome" of that system. It
+was on this occasion that Kepler submitted his celebrated remonstrance:
+"Eighty years have elapsed during which the doctrines of Copernicus
+regarding the movement of the earth and the immobility of the sun have
+been promulgated without hinderance, because it was deemed allowable to
+dispute concerning natural things, and to elucidate the works of God,
+and now that new testimony is discovered in proof of the truth of those
+doctrines--testimony which was not known to the spiritual judges--ye
+would prohibit the promulgation of the true system of the structure of
+the universe."
+
+None of Kepler's contemporaries believed the law of the areas, nor was
+it accepted until the publication of the "Principia" of Newton. In fact,
+no one in those times understood the philosophical meaning of Kepler's
+laws. He himself did not foresee what they must inevitably lead to. His
+mistakes showed how far he was from perceiving their result. Thus he
+thought that each planet is the seat of an intelligent principle, and
+that there is a relation between the magnitudes of the orbits of the
+five principal planets and the five regular solids of geometry. At first
+he inclined to believe that the orbit of Mars is oval, nor was it until
+after a wearisome study that he detected the grand truth, its elliptical
+form. An idea of the incorruptibility of the celestial objects had
+led to the adoption of the Aristotelian doctrine of the perfection of
+circular motions, and to the belief that there were none but circular
+motions in the heavens. He bitterly complains of this as having been a
+fatal "thief of his time." His philosophical daring is illustrated in
+his breaking through this time-honored tradition.
+
+In some most important particulars Kepler anticipated Newton. He was the
+first to give clear ideas respecting gravity. He says every particle of
+matter will rest until it is disturbed by some other particle--that the
+earth attracts a stone more than the stone attracts the earth, and that
+bodies move to each other in proportion to their masses; that the earth
+would ascend to the moon one-fifty-fourth of the distance, and the moon
+would move toward the earth the other fifty-three. He affirms that the
+moon's attraction causes the tides, and that the planets must impress
+irregularities on the moon's motions.
+
+The progress of astronomy is obviously divisible into three periods:
+
+1. The period of observation of the apparent motions of the heavenly
+bodies.
+
+2. The period of discovery of their real motions, and particularly of
+the laws of the planetary revolutions; this was signally illustrated by
+Copernicus and Kepler.
+
+3. The period of the ascertainment of the causes of those laws. It was
+the epoch of Newton.
+
+The passage of the second into the third period depended on the
+development of the Dynamical branch of mechanics, which had been in
+a stagnant condition from the time of Archimedes or the Alexandrian
+School.
+
+In Christian Europe there had not been a cultivator of mechanical
+philosophy until Leonardo da Vinci, who was born A.D. 1452. To him, and
+not to Lord Bacon, must be attributed the renaissance of science. Bacon
+was not only ignorant of mathematics, but depreciated its application
+to physical inquiries. He contemptuously rejected the Copernican system,
+alleging absurd objections to it. While Galileo was on the brink of
+his great telescopic discoveries, Bacon was publishing doubts as to
+the utility of instruments in scientific investigations. To ascribe the
+inductive method to him is to ignore history. His fanciful philosophical
+suggestions have never been of the slightest practical use. No one has
+ever thought of employing them. Except among English readers, his name
+is almost unknown.
+
+To Da Vinci I shall have occasion to allude more particularly on a
+subsequent page. Of his works still remaining in manuscript, two volumes
+are at Milan, and one in Paris, carried there by Napoleon. After an
+interval of about seventy years, Da Vinci was followed by the Dutch
+engineer, Stevinus, whose work on the principles of equilibrium was
+published in 1586. Six years afterward appeared Galileo's treatise on
+mechanics.
+
+To this great Italian is due the establishment of the three fundamental
+laws of dynamics, known as the Laws of Motion.
+
+The consequences of the establishment of these laws were very important.
+
+It had been supposed that continuous movements, such, for instance, as
+those of the celestial bodies, could only be maintained by a perpetual
+consumption and perpetual application of force, but the first of
+Galileo's laws declared that every body will persevere in its state of
+rest, or of uniform motion in a right line, until it is compelled to
+change that state by disturbing forces. A clear perception of this
+fundamental principle is essential to a comprehension of the elementary
+facts of physical astronomy. Since all the motions that we witness
+taking place on the surface of the earth soon come to an end, we are
+led to infer that rest is the natural condition of things. We have made,
+then, a very great advance when we have become satisfied that a body is
+equally indifferent to rest as to motion, and that it equally perseveres
+in either state until disturbing forces are applied. Such disturbing
+forces in the case of common movements are friction and the resistance
+of the air. When no such resistances exist, movement must be perpetual,
+as is the case with the heavenly bodies, which are moving in a void.
+
+Forces, no matter what their difference of magnitude may be, will exert
+their full influence conjointly, each as though the other did not exist.
+Thus, when a ball is suffered to drop from the mouth of a cannon, it
+falls to the ground in a certain interval of time through the influence
+of gravity upon it. If, then, it be fired from the cannon, though now
+it may be projected some thousands of feet in a second, the effect
+of gravity upon it will be precisely the same as before. In the
+intermingling of forces there is no deterioration; each produces its own
+specific effect.
+
+In the latter half of the seventeenth century, through the works of
+Borelli, Hooke, and Huyghens, it had become plain that circular motions
+could be accounted for by the laws of Galileo. Borelli, treating of the
+motions of Jupiter's satellites, shows how a circular movement may arise
+under the influence of a central force. Hooke exhibited the inflection
+of a direct motion into a circular by a supervening central attraction.
+
+The year 1687 presents, not only an epoch in European science, but also
+in the intellectual development of man. It is marked by the publication
+of the "Principia" of Newton, an incomparable, an immortal work.
+
+On the principle that all bodies attract each other with forces directly
+as their masses, and inversely as the squares of their distances, Newton
+showed that all the movements of the celestial bodies may be accounted
+for, and that Kepler's laws might all have been predicted--the elliptic
+motions--the described areas the relation of the times and distances. As
+we have seen, Newton's contemporaries had perceived how circular motions
+could be explained; that was a special case, but Newton furnished the
+solution of the general problem, containing all special cases of motion
+in circles, ellipses, parabolas, hyperbolas--that is, in all the conic
+sections.
+
+The Alexandrian mathematicians had shown that the direction of movement
+of falling bodies is toward the centre of the earth. Newton proved that
+this must necessarily be the case, the general effect of the attraction
+of all the particles of a sphere being the same as if they were all
+concentrated in its centre. To this central force, thus determining the
+fall of bodies, the designation of gravity was given. Up to this time,
+no one, except Kepler, had considered how far its influence reached. It
+seemed to Newton possible that it might extend as far as the moon, and
+be the force that deflects her from a rectilinear path, and makes her
+revolve in her orbit round the earth. It was easy to compute, on the
+principle of the law of inverse squares, whether the earth's attraction
+was sufficient to produce the observed effect. Employing the measures
+of the size of the earth accessible at the time, Newton found that the
+moon's deflection was only thirteen feet in a minute; whereas, if his
+hypothesis of gravitation were true, it should be fifteen feet. But in
+1669 Picard, as we have seen, executed the measurement of a degree more
+carefully than had previously been done; this changed the estimate of
+the magnitude of the earth, and, therefore, of the distance of the moon;
+and, Newton's attention having been directed to it by some discussions
+that took place at the Royal Society in 1679, he obtained Picard's
+results, went home, took out his old papers, and resumed his
+calculations. As they drew to a close, he became so much agitated
+that he was obliged to desire a friend to finish them. The expected
+coincidence was established. It was proved that the moon is retained
+in her orbit and made to revolve round the earth by the force of
+terrestrial gravity. The genii of Kepler had given place to the vortices
+of Descartes, and these in their turn to the central force of Newton.
+
+In like manner the earth, and each of the planets, are made to move
+in an elliptic orbit round the sun by his attractive force, and
+perturbations arise by reason of the disturbing action of the planetary
+masses on one another. Knowing the masses and the distances, these
+disturbances may be computed. Later astronomers have even succeeded with
+the inverse problem, that is, knowing the perturbations or disturbances,
+to find the place and the mass of the disturbing body. Thus, from the
+deviations of Uranus from his theoretical position, the discovery of
+Neptune was accomplished.
+
+Newton's merit consisted in this, that he applied the laws of dynamics
+to the movements of the celestial bodies, and insisted that scientific
+theories must be substantiated by the agreement of observations with
+calculations.
+
+When Kepler announced his three laws, they were received with
+condemnation by the spiritual authorities, not because of any error they
+were supposed to present or to contain, but partly because they gave
+support to the Copernican system, and partly because it was judged
+inexpedient to admit the prevalence of law of any kind as opposed to
+providential intervention. The world was regarded as the theatre in
+which the divine will was daily displayed; it was considered derogatory
+to the majesty of God that that will should be fettered in any way. The
+power of the clergy was chiefly manifested in the influence the were
+alleged to possess in changing his arbitrary determinations. It was thus
+that they could abate the baleful action of comets, secure fine weather
+or rain, prevent eclipses, and, arresting the course of Nature, work all
+manner of miracles; it was thus that the shadow had been made to go back
+on the dial, and the sun and the moon stopped in mid-career.
+
+In the century preceding the epoch of Newton, a great religious and
+political revolution had taken place--the Reformation. Though its
+effect had not been the securing of complete liberty for thought, it had
+weakened many of the old ecclesiastical bonds. In the reformed countries
+there was no power to express a condemnation of Newton's works, and
+among the clergy there was no disposition to give themselves any concern
+about the matter. At first the attention of the Protestant was engrossed
+by the movements of his great enemy the Catholic, and when that source
+of disquietude ceased, and the inevitable partitions of the Reformation
+arose, that attention was fastened upon the rival and antagonistic
+Churches. The Lutheran, the Calvinist, the Episcopalian, the
+Presbyterian, had something more urgent on hand than Newton's
+mathematical demonstrations.
+
+So, uncondemned, and indeed unobserved, in this clamor of fighting
+sects, Newton's grand theory solidly established itself. Its
+philosophical significance was infinitely more momentous than the dogmas
+that these persons were quarreling about. It not only accepted the
+heliocentric theory and the laws discovered by Kepler, but it proved
+that, no matter what might be the weight of opposing ecclesiastical
+authority, the sun MUST be the centre of our system, and that Kepler's
+laws are the result of a mathematical necessity. It is impossible that
+they should be other than they are.
+
+But what is the meaning of all this? Plainly that the solar system
+is not interrupted by providential interventions, but is under the
+government of irreversible law--law that is itself the issue of
+mathematical necessity.
+
+The telescopic observations of Herschel I. satisfied him that there are
+very many double stars--double not merely because they are accidentally
+in the same line of view, but because they are connected physically,
+revolving round each other. These observations were continued and
+greatly extended by Herschel II. The elements of the elliptic orbit of
+the double star zeta of the Great Bear were determined by Savary, its
+period being fifty-eight and one-quarter years; those of another, sigma
+Coronae, were determined by Hind, its period being more than seven
+hundred and thirty-six years. The orbital movement of these double suns
+in ellipses compels us to admit that the law of gravitation holds good
+far beyond the boundaries of the solar system; indeed, as far as the
+telescope can reach, it demonstrates the reign of law. D'Alembert, in
+the Introduction to the Encyclopaedia, says: "The universe is but a
+single fact; it is only one great truth."
+
+Shall we, then, conclude that the solar and the starry systems have been
+called into existence by God, and that he has then imposed upon them by
+his arbitrary will laws under the control of which it was his pleasure
+that their movements should be made?
+
+Or are there reasons for believing that these several systems came into
+existence not by such an arbitrary fiat, but through the operation of
+law?
+
+The following are some peculiarities displayed by the solar system as
+enumerated by Laplace. All the planets and their satellites move in
+ellipses of such small eccentricity that they are nearly circles. All
+the planets move in the same direction and nearly in the same plane. The
+movements of the satellites are in the same direction as those of the
+planets. The movements of rotation of the sun, of the planets, and the
+satellites, are in the same direction as their orbital motions, and in
+planes little different.
+
+It is impossible that so many coincidences could be the result of
+chance! Is it not plain that there must have been a common tie among
+all these bodies, that they are only parts of what must once have been a
+single mass?
+
+But if we admit that the substance of which the solar system consists
+once existed in a nebulous condition, and was in rotation, all the above
+peculiarities follow as necessary mechanical consequences. Nay, more,
+the formation of planets, the formation of satellites and of asteroids,
+is accounted for. We see why the outer planets and satellites are larger
+than the interior ones; why the larger planets rotate rapidly, and the
+small ones slowly; why of the satellites the outer planets have more,
+the inner fewer. We are furnished with indications of the time of
+revolution of the planets in their orbits, and of the satellites in
+theirs; we perceive the mode of formation of Saturn's rings. We find an
+explanation of the physical condition of the sun, and the transitions of
+condition through which the earth and moon have passed, as indicated by
+their geology.
+
+But two exceptions to the above peculiarities have been noted; they are
+in the cases of Uranus and Neptune.
+
+The existence of such a nebulous mass once admitted, all the rest
+follows as a matter of necessity. Is there not, however, a most serious
+objection in the way? Is not this to exclude Almighty God from the
+worlds he has made?
+
+First, we must be satisfied whether there is any solid evidence for
+admitting the existence of such a nebulous mass.
+
+The nebular hypothesis rests primarily on the telescopic discovery made
+by Herschel I., that there are scattered here and there in the heavens
+pale, gleaming patches of light, a few of which are large enough to be
+visible to the naked eye. Of these, many may be resolved by a sufficient
+telescopic power into a congeries of stars, but some, such as the great
+nebula in Orion, have resisted the best instruments hitherto made.
+
+It was asserted by those who were indisposed to accept the nebular
+hypothesis, that the non-resolution was due to imperfection in the
+telescopes used. In these instruments two distinct functions may be
+observed: their light-gathering power depends on the diameter of their
+object mirror or lens, their defining power depends on the exquisite
+correctness of their optical surfaces. Grand instruments may possess
+the former quality in perfection by reason of their size, but the latter
+very imperfectly, either through want of original configuration, or
+distortion arising from flexure through their own weight. But, unless an
+instrument be perfect in this respect, as well as adequate in the other,
+it may fail to decompose a nebula into discrete points.
+
+Fortunately, however, other means for the settlement of this question
+are available. In 1846, it was discovered by the author of this book
+that the spectrum of an ignited solid is continuous--that is, has
+neither dark nor bright lines. Fraunhofer had previously made known that
+the spectrum of ignited gases is discontinuous. Here, then, is the means
+of determining whether the light emitted by a given nebula comes from an
+incandescent gas, or from a congeries of ignited solids, stars, or
+suns. If its spectrum be discontinuous, it is a true nebula or gas; if
+continuous, a congeries of stars.
+
+In 1864, Mr. Huggins made this examination in the case of a nebula in
+the constellation Draco. It proved to be gaseous.
+
+Subsequent observations have shown that, of sixty nebulae examined,
+nineteen give discontinuous or gaseous spectra--the remainder continuous
+ones.
+
+It may, therefore, be admitted that physical evidence has at length
+been obtained, demonstrating the existence of vast masses of matter in a
+gaseous condition, and at a temperature of incandescence. The hypothesis
+of Laplace has thus a firm basis. In such a nebular mass, cooling by
+radiation is a necessary incident, and condensation and rotation the
+inevitable results. There must be a separation of rings all lying in
+one plane, a generation of planets and satellites all rotating alike,
+a central sun and engirdling globes. From a chaotic mass, through the
+operation of natural laws, an organized system has been produced. An
+integration of matter into worlds has taken place through a decline of
+heat.
+
+If such be the cosmogony of the solar system, such the genesis of the
+planetary worlds, we are constrained to extend our views of the dominion
+of law, and to recognize its agency in the creation as well as in the
+conservation of the innumerable orbs that throng the universe.
+
+But, again, it may be asked: "Is there not something profoundly impious
+in this? Are we not excluding Almighty God from the world he has made?"
+
+We have often witnessed the formation of a cloud in a serene sky. A hazy
+point, barely perceptible--a little wreath of mist--increases in volume,
+and becomes darker and denser, until it obscures a large portion of the
+heavens. It throws itself into fantastic shapes, it gathers a glory
+from the sun, is borne onward by the wind, and, perhaps, as it gradually
+came, so it gradually disappears, melting away in the untroubled air.
+
+Now, we say that the little vesicles of which this cloud was composed
+arose from the condensation of water-vapor preexisting in the
+atmosphere, through reduction of temperature; we show how they assumed
+the form they present. We assign optical reasons for the brightness
+or blackness of the cloud; we explain, on mechanical principles, its
+drifting before the wind; for its disappearance we account on
+the principles of chemistry. It never occurs to us to invoke the
+interposition of the Almighty in the production and fashioning of this
+fugitive form. We explain all the facts connected with it by physical
+laws, and perhaps should reverentially hesitate to call into operation
+the finger of God.
+
+But the universe is nothing more than such a cloud--a cloud of suns and
+worlds. Supremely grand though it may seem to us, to the Infinite and
+Eternal Intellect it is no more than a fleeting mist. If there be a
+multiplicity of worlds in infinite space, there is also a succession of
+worlds in infinite time. As one after another cloud replaces cloud in
+the skies, so this starry system, the universe, is the successor of
+countless others that have preceded it--the predecessor of countless
+others that will follow. There is an unceasing metamorphosis, a sequence
+of events, without beginning or end.
+
+If, on physical principles, we account for minor meteorological
+incidents, mists and clouds, is it not permissible for us to appeal to
+the same principle in the origin of world-systems and universes, which
+are only clouds on a space-scale somewhat larger, mists on a time-scale
+somewhat less transient? Can any man place the line which bounds
+the physical on one side, the supernatural on the other? Do not our
+estimates of the extent and the duration of things depend altogether
+on our point of view? Were we set in the midst of the great nebula
+of Orion, how transcendently magnificent the scene! The vast
+transformations, the condensations of a fiery mist into worlds, might
+seem worthy of the immediate presence, the supervision of God; here, at
+our distant station, where millions of miles are inappreciable to our
+eyes, and suns seem no bigger than motes in the air, that nebula is more
+insignificant than the faintest cloud. Galileo, in his description of
+the constellation of Orion, did not think it worth while so much as to
+mention it. The most rigorous theologian of those days would have seen
+nothing to blame in imputing its origin to secondary causes, nothing
+irreligious in failing to invoke the arbitrary interference of God in
+its metamorphoses. If such be the conclusion to which we come respecting
+it, what would be the conclusion to which an Intelligence seated in it
+might come respecting us? It occupies an extent of space millions of
+times greater than that of our solar system; we are invisible from it,
+and therefore absolutely insignificant. Would such an Intelligence think
+it necessary to require for our origin and maintenance the immediate
+intervention of God?
+
+
+From the solar system let us descend to what is still more
+insignificant--a little portion of it; let us descend to our own earth.
+In the lapse of time it has experienced great changes. Have these been
+due to incessant divine interventions, or to the continuous operation of
+unfailing law? The aspect of Nature perpetually varies under our eyes,
+still more grandly and strikingly has it altered in geological
+times. But the laws guiding those changes never exhibit the slightest
+variation. In the midst of immense vicissitudes they are immutable.
+The present order of things is only a link in a vast connected chain
+reaching back to an incalculable past, and forward to an infinite
+future.
+
+There is evidence, geological and astronomical, that the temperature of
+the earth and her satellite was in the remote past very much higher than
+it is now. A decline so slow as to be imperceptible at short intervals,
+but manifest enough in the course of many ages, has occurred. The heat
+has been lost by radiation into space.
+
+The cooling of a mass of any kind, no matter whether large or small, is
+not discontinuous; it does not go on by fits and starts; it takes
+place under the operation of a mathematical law, though for such mighty
+changes as are here contemplated neither the formula of Newton, nor that
+of Dulong and Petit, may apply. It signifies nothing that periods of
+partial decline, glacial periods, or others of temporary elevation, have
+been intercalated; it signifies nothing whether these variations may
+have arisen from topographical variations, as those of level, or from
+periodicities in the radiation of the sun. A periodical sun would act as
+a mere perturbation in the gradual decline of heat. The perturbations of
+the planetary motions are a confirmation, not a disproof, of gravity.
+
+Now, such a decline of temperature must have been attended by
+innumerable changes of a physical character in our globe. Her dimensions
+must have diminished through contraction, the length of her day must
+have lessened, her surface must have collapsed, and fractures taken
+place along the lines of least resistance; the density of the sea must
+have increased, its volume must have become less; the constitution of
+the atmosphere must have varied, especially in the amount of water-vapor
+and carbonic acid that it contained; the barometric pressure must have
+declined.
+
+These changes, and very many more that might be mentioned, must have
+taken place not in a discontinuous but in an orderly manner, since the
+master-fact, the decline of heat, that was causing them, was itself
+following a mathematical law.
+
+But not alone did lifeless Nature submit to these inevitable mutations;
+living Nature was also simultaneously affected.
+
+An organic form of any kind, vegetable or animal, will remain unchanged
+only so long as the environment in which it is placed remains unchanged.
+Should an alteration in the environment occur, the organism will either
+be modified or destroyed.
+
+Destruction is more likely to happen as the change in the environment
+is more sudden; modification or transformation is more possible as that
+change is more gradual.
+
+Since it is demonstrably certain that lifeless Nature has in the lapse
+of ages undergone vast modifications; since the crust of the earth, and
+the sea, and the atmosphere, are no longer such as they once were; since
+the distribution of the land and the ocean and all manner of physical
+conditions have varied; since there have been such grand changes in
+the environment of living things on the surface of our planet--it
+necessarily follows that organic Nature must have passed through
+destructions and transformations in correspondence thereto.
+
+That such extinctions, such modifications, have taken place, how
+copious, how convincing, is the evidence!
+
+Here, again, we must observe that, since the disturbing agency
+was itself following a mathematical law, these its results must be
+considered as following that law too.
+
+Such considerations, then, plainly force upon us the conclusion that
+the organic progress of the world has been guided by the operation of
+immutable law--not determined by discontinuous, disconnected, arbitrary
+interventions of God. They incline us to view favorably the idea of
+transmutations of one form into another, rather than that of sudden
+creations.
+
+Creation implies an abrupt appearance, transformation a gradual change.
+
+In this manner is presented to our contemplation the great theory of
+Evolution. Every organic being has a place in a chain of events. It is
+not an isolated, a capricious fact, but an unavoidable phenomenon. It
+has its place in that vast, orderly concourse which has successively
+risen in the past, has introduced the present, and is preparing the way
+for a predestined future. From point to point in this vast progression
+there has been a gradual, a definite, a continuous unfolding, a
+resistless order of evolution. But in the midst of these mighty changes
+stand forth immutable the laws that are dominating over all.
+
+If we examine the introduction of any type of life in the animal series,
+we find that it is in accordance with transformation, not with creation.
+Its beginning is under an imperfect form in the midst of other forms,
+of which the time is nearly complete, and which are passing into
+extinction. By degrees, one species after another in succession more and
+more perfect arises, until, after many ages, a culmination is reached.
+From that there is, in like manner, a long, a gradual decline.
+
+Thus, though the mammal type of life is the characteristic of the
+Tertiary and post-Tertiary periods, it does not suddenly make its
+appearance without premonition in those periods. Far back, in the
+Secondary, we find it under imperfect forms, struggling, as it were, to
+make good a foothold. At length it gains a predominance under higher and
+better models.
+
+So, too, of reptiles, the characteristic type of life of the Secondary
+period. As we see in a dissolving view, out of the fading outlines of
+a scene that is passing away, the dim form of a new one emerging, which
+gradually gains strength, reaches its culmination, and then melts
+away in some other that is displacing it, so reptile-life doubtfully,
+appears, reaches its culmination, and gradually declines. In all this
+there is nothing abrupt; the changes shade into each other by insensible
+degrees.
+
+How could it be otherwise? The hot-blooded animals could not exist in
+an atmosphere so laden with carbonic acid as was that of the primitive
+times. But the removal of that noxious ingredient from the air by the
+leaves of plants under the influence of sunlight, the enveloping of its
+carbon in the earth under the form of coal, the disengagement of its
+oxygen, permitted their life. As the atmosphere was thus modified,
+the sea was involved in the change; it surrendered a large part of its
+carbonic acid, and the limestone hitherto held in solution by it was
+deposited in the solid form. For every equivalent of carbon buried in
+the earth, there was an equivalent of carbonate of lime separated from
+the sea--not necessarily in an amorphous condition, most frequently
+under an organic form. The sunshine kept up its work day by day, but
+there were demanded myriads of days for the work to be completed. It was
+a slow passage from a noxious to a purified atmosphere, and an equally
+slow passage from a cold-blooded to a hot-blooded type of life. But the
+physical changes were taking place under the control of law, and the
+organic transformations were not sudden or arbitrary providential acts.
+They were the immediate, the inevitable consequences of the physical
+changes, and therefore, like them, the necessary issue of law.
+
+For a more detailed consideration of this subject, I may refer the
+reader to Chapters I, II., VII, of the second book of my "Treatise on
+Human Physiology," published in 1856.
+
+
+Is the world, then, governed by law or by providential interventions,
+abruptly breaking the proper sequence of events?
+
+To complete our view of this question, we turn finally to what, in one
+sense, is the most insignificant, in another the most important, case
+that can be considered. Do human societies, in their historic career,
+exhibit the marks of a predetermined progress in an unavoidable track?
+Is there any evidence that the life of nations is under the control of
+immutable law?
+
+May we conclude that, in society, as in the individual man, parts never
+spring from nothing, but are evolved or developed from parts that are
+already in existence?
+
+If any one should object to or deride the doctrine of the evolution
+or successive development of the animated forms which constitute that
+unbroken organic chain reaching from the beginning of life on the globe
+to the present times, let him reflect that he has himself passed through
+modifications the counterpart of those he disputes. For nine months
+his type of life was aquatic, and during that time he assumed, in
+succession, many distinct but correlated forms. At birth his type of
+life became aerial; he began respiring the atmospheric air; new elements
+of food were supplied to him; the mode of his nutrition changed; but
+as yet he could see nothing, hear nothing, notice nothing. By degrees
+conscious existence was assumed; he became aware that there is an
+external world. In due time organs adapted to another change of food,
+the teeth, appeared, and a change of food ensued. He then passed through
+the stages of childhood and youth, his bodily form developing, and with
+it his intellectual powers. At about fifteen years, in consequence of
+the evolution which special parts of his system had attained, his moral
+character changed. New ideas, new passions, influenced him. And that
+that was the cause, and this the effect, is demonstrated when, by the
+skill of the surgeon, those parts have been interfered with. Nor does
+the development, the metamorphosis, end here; it requires many years
+for the body to reach its full perfection, many years for the mind. A
+culmination is at length reached, and then there is a decline. I need
+not picture its mournful incidents--the corporeal, the intellectual
+enfeeblement. Perhaps there is little exaggeration in saying that in
+less than a century every human being on the face of the globe, if not
+cut off in an untimely manner, has passed through all these changes.
+
+Is there for each of us a providential intervention as we thus pass
+from stage to stage of life? or shall we not rather believe that the
+countless myriads of human beings who have peopled the earth have been
+under the guidance of an unchanging, a universal law?
+
+But individuals are the elementary constituents of communities--nations.
+They maintain therein a relation like that which the particles of the
+body maintain to the body itself. These, introduced into it, commence
+and complete their function; they die, and are dismissed.
+
+Like the individual, the nation comes into existence without its own
+knowledge, and dies without its own consent, often against its own will.
+National life differs in no particular from individual, except in this,
+that it is spread over a longer span, but no nation can escape its
+inevitable term. Each, if its history be well considered, shows its
+time of infancy, its time of youth, its time of maturity, its time of
+decline, if its phases of life be completed.
+
+In the phases of existence of all, so far as those phases are
+completed, there are common characteristics, and, as like accordances in
+individuals point out that all are living under a reign of law, we
+are justified in inferring that the course of nations, and indeed the
+progress of humanity, does not take place in a chance or random way,
+that supernatural interventions never break the chain of historic acts,
+that every historic event has its warrant in some preceding event, and
+gives warrant to others that are to follow..
+
+But this conclusion is the essential principle of Stoicism--that Grecian
+philosophical system which, as I have already said, offered a support in
+their hour of trial and an unwavering guide in the vicissitudes of
+life, not only to many illustrious Greeks, but also to some of the great
+philosophers, statesmen, generals, and emperors of Rome; a system which
+excluded chance from every thing, and asserted the direction of all
+events by irresistible necessity, to the promotion of perfect good; a
+system of earnestness, sternness, austerity, virtue--a protest in favor
+of the common-sense of mankind. And perhaps we shall not dissent from
+the remark of Montesquieu, who affirms that the destruction of the
+Stoics was a great calamity to the human race; for they alone made great
+citizens, great men.
+
+To the principle of government by law, Latin Christianity, in its papal
+form, is in absolute contradiction. The history of this branch of
+the Christian Church is almost a diary of miracles and supernatural
+interventions. These show that the supplications of holy men have often
+arrested the course of Nature--if, indeed, there be any such course;
+that images and pictures have worked wonders; that bones, hairs, and
+other sacred relics, have wrought miracles. The criterion or proof of
+the authenticity of many of these objects is, not an unchallengeable
+record of their origin and history, but an exhibition of their
+miracle-working powers.
+
+Is not that a strange logic which finds proof of an asserted fact in an
+inexplicable illustration of something else?
+
+Even in the darkest ages intelligent Christian men must have had
+misgivings as to these alleged providential or miraculous interventions.
+There is a solemn grandeur in the orderly progress of Nature which
+profoundly impresses us; and such is the character of continuity in the
+events of our individual life that we instinctively doubt the occurrence
+of the supernatural in that of our neighbor. The intelligent man knows
+well that, for his personal behoof, the course of Nature has never been
+checked; for him no miracle has ever been worked; he attributes justly
+every event of his life to some antecedent event; this he looks upon
+as the cause, that as the consequence. When it is affirmed that, in his
+neighbor's behalf, such grand interventions have been vouchsafed, he
+cannot do otherwise than believe that his neighbor is either deceived,
+or practising deception.
+
+As might, then, have been anticipated, the Catholic doctrine of
+miraculous intervention received a rude shock at the time of the
+Reformation, when predestination and election were upheld by some of the
+greatest theologians, and accepted by some of the greatest Protestant
+Churches. With stoical austerity Calvin declares: "We were elected from
+eternity, before the foundation of the world, from no merit of our own,
+but according to the purpose of the divine pleasure." In affirming this,
+Calvin was resting on the belief that God has from all eternity decreed
+whatever comes to pass. Thus, after the lapse of many ages, were again
+emerging into prominence the ideas of the Basilidians wad Valentinians,
+Christian sects of the second century, whose Gnostical views led to the
+engraftment of the great doctrine of the Trinity upon Christianity. They
+asserted that all the actions of men are necessary, that even faith is
+a natural gift, to which men are forcibly determined, and must therefore
+be saved, though their lives be ever so irregular. From the Supreme God
+all things proceeded. Thus, also, came into prominence the views which
+were developed by Augustine in his work, "De dono perseverantiae." These
+were: that God, by his arbitrary will, has selected certain persons
+without respect to foreseen faith or good works, and has infallibly
+ordained to bestow upon them eternal happiness; other persons, in like
+manner, he has condemned to eternal reprobation. The Sublapsarians
+believed that "God permitted the fall of Adam;" the Supralapsarians that
+"he predestinated it, with all its pernicious consequences, from all
+eternity, and that our first parents had no liberty from the beginning."
+In this, these sectarians disregarded the remark of St. Augustine:
+"Nefas est dicere Deum aliquid nisi bonum predestinare."
+
+Is it true, then, that "predestination to eternal happiness is the
+everlasting purpose of God, whereby, before the foundations of the world
+were laid, he hath constantly decreed by his council, secret to us,
+to deliver from curse and damnation those whom he hath chosen out of
+mankind?" Is it true that of the human family there are some who, in
+view of no fault of their own, Almighty God has condemned to unending
+torture, eternal misery?
+
+In 1595 the Lambeth Articles asserted that "God from eternity hath
+predestinated certain men unto life; certain he hath reprobated." In
+1618 the Synod of Dort decided in favor of this view. It condemned the
+remonstrants against it, and treated them with such severity, that many
+of them had to flee to foreign countries. Even in the Church of England,
+as is manifested by its seventeenth Article of Faith, these doctrines
+have found favor.
+
+Probably there was no point which brought down from the Catholics on the
+Protestants severer condemnation than this, their partial acceptance
+of the government of the world by law. In all Reformed Europe miracles
+ceased. But, with the cessation of shrine-cure, relic-cure, great
+pecuniary profits ended. Indeed, as is well known, it was the sale
+of indulgences that provoked the Reformation--indulgences which are
+essentially a permit from God for the practice of sin, conditioned on
+the payment of a certain sum of money to the priest.
+
+Philosophically, the Reformation implied a protest against the Catholic
+doctrine of incessant divine intervention in human affairs, invoked by
+sacerdotal agency; but this protest was far from being fully made by
+all the Reforming Churches. The evidence in behalf of government by law,
+which has of late years been offered by science, is received by many of
+them with suspicion, perhaps with dislike; sentiments which, however,
+must eventually give way before the hourly-increasing weight of
+evidence.
+
+Shall we not, then, conclude with Cicero, who, quoted by Lactantius,
+says: "One eternal and immutable law embraces all things and all times?"
