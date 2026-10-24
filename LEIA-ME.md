@@ -1,60 +1,46 @@
-# *O Livro do Porquê* — Edição brasileira de estudo
+# *O Livro do Porquê* — edição com figuras (pasta `novo`)
 
-**Título original:** *The Book of Why: The New Science of Cause and Effect*  
-**Autores:** Judea Pearl e Dana Mackenzie  
-**Obra original:** © 2018 Judea Pearl and Dana Mackenzie · Basic Books / Hachette  
+Esta pasta contém a **versão completa** da tradução brasileira **com imagens, figuras e tabelas embutidas**, e legendas em português.
 
-Esta pasta contém uma **tradução completa para o português brasileiro** (edição de estudo), com capa e contracapa no estilo tipográfico da tradição de não ficção da Companhia das Letras, glossário, notas do tradutor e legendas de figuras em português.
+## Arquivos principais
 
-> **Aviso:** tradução não oficial, elaborada para fins de estudo e leitura.  
-> Todos os direitos da obra original pertencem aos autores e à editora.
+| Formato | Arquivo | Tamanho aprox. |
+|---------|---------|----------------|
+| **PDF** | `O_Livro_do_Porque.pdf` | ~33 MB · **509 páginas** · ~105 págs. com figuras |
+| **EPUB** | `O_Livro_do_Porque.epub` | ~26 MB (imagens embutidas) |
+| **HTML** | `O_Livro_do_Porque.html` | ~1 MB (+ pasta `figuras/`) |
+| **LaTeX** | `O_Livro_do_Porque.tex` | fonte recompilável com `\includegraphics` |
 
----
+## Figuras
 
-## Arquivos finais
+- **`figuras/`** — 88 arquivos `fig_X_Y.png` / `tab_X_Y.png` extraídos do PDF original
+- **`figuras_map.json`** — mapeamento figura → página original + legenda PT
+- **`INDICE_FIGURAS.md`** — índice legível de todas as figuras/tabelas
+- **`pt/*.md`** — capítulos em markdown com `![...](../figuras/...)` e legendas
 
-| Formato | Arquivo | Observação |
-|---------|---------|------------|
-| **PDF** | `O_Livro_do_Porque.pdf` | **504 páginas** (A5), capa + contracapa |
-| **HTML** | `O_Livro_do_Porque.html` | Leitura no navegador, sumário com âncoras |
-| **LaTeX** | `O_Livro_do_Porque.tex` (e `latex/`) | Fonte tipográfica recompilável |
-| **EPUB** | `O_Livro_do_Porque.epub` | e-reader / apps de leitura |
+## Capa / contracapa
 
-## Capa e contracapa
+- `capa_br.png`
+- `contracapa_br.png`
 
-- `images/capa_br.png` — capa estilo Companhia das Letras (creme, tipografia serifada, seta α→β)
-- `images/contracapa_br.png` — sinopse, citação e código de barras de estudo
-
-## Estrutura da tradução (`pt/`)
-
-| Arquivo | Conteúdo |
-|---------|----------|
-| `00_prefacio.md` … `10_bigdata.md` | Prefácio, introdução e capítulos 1–10 |
-| `11_agradecimentos.md` … `15_indice.md` | Apêndices |
-| `16_notas_tradutor.md` | Critérios e decisões de tradução |
-| `17_figuras_legendas.md` | Legendas de figuras/tabelas em PT-BR |
-| `GLOSSARIO.md` (pasta pai) | Glossário canônico EN→PT-BR |
-
-**Volume aproximado da tradução:** ~139 mil palavras em português.
-
-## Critérios principais de tradução
-
-- *Ladder of Causation* → **Escada da Causalidade**
-- *confounding* → **confundimento** (epidemiologia BR)
-- *counterfactual* → **contrafactual**
-- *back-door / front-door* → **porta dos fundos / porta da frente**
-- operador *do*(·) e equações **mantidos** na notação original
-- Títulos de artigos/livros na bibliografia: **originais em inglês**
-
-## Como regenerar os formatos
+## Como regenerar
 
 ```powershell
-python tradu\build\gerar_capas.py
-python tradu\build\montar_obra.py all
-# ou: html | latex | pdf | epub
+python ..\build\embed_figures.py
 ```
 
-## Imagens do original
+## Nota sobre legendas e rótulos
 
-Extraídas em `images/original/` (117 imagens significativas).  
-Diagramas com rótulos simbólicos permanecem no original; legendas traduzidas em `pt/17_figuras_legendas.md`.
+- **88 figuras/tabelas** embutidas nos quatro formatos (PDF, HTML, LaTeX, EPUB).
+- Legendas em português brasileiro em todas as figuras.
+- **Figura 1.2 (Escada da Causalidade):** painéis de texto refeitos em PT-BR (Associação / Intervenção / Contrafactuais).
+- **Tabelas-chave** (ex.: 3.1, 3.2, 6.1, 6.4, 8.1) redesenhadas com cabeçalhos em português.
+- Demais figuras: imagem original + faixa-título em português.
+- Diagramas só com símbolos (*X*, *Y*, setas, *do*): mantidos (não exigem tradução de rótulos).
+- Cópias PT extras também em `figuras_pt/`.
+
+## Regenerar com figuras traduzidas
+
+```powershell
+python ..\build\figuras_pt.py
+```
