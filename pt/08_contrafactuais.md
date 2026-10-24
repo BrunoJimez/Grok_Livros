@@ -37,6 +37,10 @@ Para encontrar um filósofo que colocou os contrafactuais no coração da causal
 
 Em seu *Tratado da natureza humana* (Figura 8.1), Hume nega que quaisquer dois objetos tenham qualidades ou "poderes" inatos que façam de um uma causa e do outro um efeito. Em sua visão, a relação causa-efeito é inteiramente um produto de nossa própria memória e experiência. "Assim, lembramo-nos de ter visto aquela espécie de objeto a que chamamos chama, e de ter sentido aquela espécie de sensação a que chamamos calor", escreve. "Recordamos igualmente sua conjunção constante em todas as instâncias passadas. Sem qualquer outra cerimônia, chamamos um de causa e o outro de efeito, e inferimos a existência de um a partir do outro." Esta é hoje conhecida como a definição de "regularidade" da causalidade.
 
+![Figura 8.1. A definição de “regularidade” de causa e efeito de Hume, proposta em 1739.](../figuras/fig_8_1.png)
+
+*Figura 8.1. A definição de “regularidade” de causa e efeito de Hume, proposta em 1739.*
+
 A passagem é de cortar o fôlego em sua ousadia. Hume está cortando o segundo e o terceiro degraus da Escada da Causalidade e dizendo que o primeiro degrau, a observação, é tudo de que precisamos. Uma vez que observamos chama e calor juntos um número suficiente de vezes (e note que a chama tem precedência temporal), concordamos em chamar a chama de causa do calor. Como a maioria dos estatísticos do século XX, Hume em 1739 parece contente em considerar a causalidade como mera espécie de correlação.
 
 *Figura 8.1. A definição de "regularidade" de causa e efeito de Hume, proposta em 1739.*
@@ -71,10 +75,13 @@ Os filósofos tendem a deixar para os psicólogos fazer afirmações sobre como 
 
 Os filósofos tendiam a ver os modelos estruturais como apenas uma entre muitas implementações possíveis da lógica de mundos possíveis de Lewis. Ouso sugerir que são muito mais do que isso. Lógica vazia de representação é metafísica. Os diagramas causais, com suas regras simples de seguir e apagar setas, devem estar próximos do modo como nossos cérebros representam contrafactuais. Essa afirmação deve permanecer sem prova por enquanto, mas o resultado da longa história é que os contrafactuais deixaram de ser místicos. Compreendemos como os humanos os manejam, e estamos prontos para equipar robôs com capacidades semelhantes às que nossos ancestrais adquiriram há 40 mil anos.
 
-
 ## Resultados potenciais, equações estruturais e a algoritmização dos contrafactuais
 
 Apenas um ano após o lançamento do livro de Lewis, e independentemente dele, Donald Rubin (Figura 8.2) começou a escrever uma série de artigos que introduziram os resultados potenciais como linguagem para formular perguntas causais. Rubin, à época estatístico do Educational Testing Service, sozinho rompeu o silêncio sobre causalidade que persistira na estatística por setenta e cinco anos e legitimou o conceito de contrafactuais aos olhos de muitos cientistas da saúde. É impossível exagerar a importância desse desenvolvimento. Ele forneceu aos pesquisadores uma linguagem flexível para expressar quase toda pergunta causal que pudessem desejar formular, tanto no nível populacional quanto no individual.
+
+![Figura 8.2. Donald Rubin (à direita) com o autor em 2014. (Fonte: foto cortesia de Grace Hyun Kim.)](../figuras/fig_8_2.png)
+
+*Figura 8.2. Donald Rubin (à direita) com o autor em 2014. (Fonte: foto cortesia de Grace Hyun Kim.)*
 
 *Figura 8.2. Donald Rubin (à direita) com o autor em 2014. (Fonte: foto cortesia de Grace Hyun Kim.)*
 
@@ -93,6 +100,10 @@ Em 1935, Neyman deu uma palestra na Royal Statistical Society intitulada "Proble
 Neyman e Pearson viram a extensão da fúria de Fisher poucos dias depois, quando foram ao departamento à noite e encontraram os modelos de madeira de Neyman, com os quais ilustrara a palestra, espalhados pelo chão. Concluíram que só Fisher poderia ter sido responsável pela devastação. Embora o ataque de raiva de Fisher possa parecer divertido agora, sua atitude teve consequências sérias. É claro que ele não podia engolir o orgulho e usar a notação de resultados potenciais de Neyman, ainda que isso o tivesse ajudado mais tarde com problemas de mediação. A falta de vocabulário de resultados potenciais levou a ele e a muitas outras pessoas a chamada Falácia da Mediação, que discutiremos no Capítulo 9.
 
 Neste ponto, alguns leitores ainda podem achar o conceito de contrafactuais um tanto místico, de modo que gostaria de mostrar como alguns seguidores de Rubin infeririam resultados potenciais e contrastar essa abordagem livre de modelo com a abordagem do modelo causal estrutural. Suponha que estejamos examinando certa empresa para ver se a educação ou os anos de experiência são o fator mais importante na determinação do salário de um empregado. Coletamos alguns dados sobre os salários existentes nessa empresa, reproduzidos na Tabela 8.1. Deixamos *EX* representar anos de experiência, *ED* representar educação e *S* representar salário. Assumimos também, por simplicidade, apenas três níveis de educação: 0 = diploma de ensino médio, 1 = diploma universitário, 2 = diploma de pós-graduação. Assim, *S*<sub>*ED* = 0</sub>(*u*), ou *S*<sub>0</sub>(*u*), representa o salário do indivíduo *u* se *u* fosse apenas graduado no ensino médio, e *S*<sub>1</sub>(*u*) representa o salário de *u* se *u* fosse graduado na universidade. Uma pergunta contrafactual típica que poderíamos querer fazer é: "Qual seria o salário de Alice se ela tivesse um diploma universitário?" Em outras palavras, o que é *S*<sub>1</sub>(Alice)?
+
+![Tabela 8.1. Dados fictícios para o exemplo de resultados potenciais.](../figuras/tab_8_1.png)
+
+*Tabela 8.1. Dados fictícios para o exemplo de resultados potenciais.*
 
 A primeira coisa a notar sobre a Tabela 8.1 é toda a ausência de dados, indicada por pontos de interrogação. Nunca podemos observar mais de um resultado potencial no mesmo indivíduo. Embora óbvia, essa afirmação é, não obstante, importante. O estatístico Paul Holland certa vez a chamou de "problema fundamental da inferência causal", nome que pegou. Se só pudéssemos preencher os pontos de interrogação, poderíamos responder a todas as nossas perguntas causais.
 
@@ -117,6 +128,10 @@ Antes de contrastar esses métodos com a abordagem do modelo causal estrutural, 
 O primeiro ponto-chave a perceber é que a Experiência é provavelmente dependente da Educação. Afinal, aqueles empregados que obtiveram um grau educacional extra dedicaram quatro anos de suas vidas a isso. Assim, se Caroline tivesse apenas um grau de educação (como Bert), teria podido usar esse tempo extra para ganhar mais experiência do que tem agora. Isso lhe teria dado educação igual e experiência maior do que Bert. Podemos, portanto, concluir que *S*<sub>1</sub>(Caroline) > *S*<sub>1</sub>(Bert), contrariamente ao que o pareamento ingênuo preveria. Vemos que, uma vez que temos uma história causal em que a Educação afeta a Experiência, é inevitável que "parear" em Experiência crie um descompasso no Salário potencial. Ironicamente, a Experiência igual, que começou como um convite ao pareamento, agora se transformou num alto aviso *contra* ele. A Tabela 8.1 continuará, é claro, em silêncio sobre tais perigos. Por essa razão, não posso compartilhar o entusiasmo de Holland por moldar a inferência causal como um problema de dados ausentes. Muito pelo contrário. Trabalho recente de Karthika Mohan, uma ex-aluna minha, revela que mesmo problemas padrão de dados ausentes exigem modelagem causal para sua solução.
 
 Agora vejamos como um modelo causal estrutural trataria os mesmos dados. Primeiro, antes mesmo de olhar para os dados, desenhamos um diagrama causal (Figura 8.3). O diagrama codifica a história causal por trás dos dados, segundo a qual a Experiência "escuta" a Educação e o Salário escuta ambos. De fato, já podemos dizer algo muito importante só olhando para o diagrama. Se nosso modelo estivesse errado e *EX* fosse uma causa de *ED*, em vez do contrário, então a Experiência seria um confundidor, e parear empregados com experiência semelhante seria completamente apropriado. Com *ED* como causa de *EX*, a Experiência é um mediador. Como o leitor certamente já sabe, confundir um mediador com um confundidor é um dos pecados mais mortais na inferência causal e pode levar aos erros mais escandalosos. Este último convida ao ajustamento; o primeiro o proíbe.
+
+![Figura 8.3. Diagrama causal para o efeito da educação (*ED*) e da experiência (*EX*) sobre o salário (*S*).](../figuras/fig_8_3.png)
+
+*Figura 8.3. Diagrama causal para o efeito da educação (*ED*) e da experiência (*EX*) sobre o salário (*S*).*
 
 *Figura 8.3. Diagrama causal para o efeito da educação (ED) e da experiência (EX) sobre o salário (S).*
 
@@ -155,7 +170,6 @@ Este exemplo nos forçou a ir mais longe nos "parafusos e porcas" dos modelos ca
 Ao risco de acrescentar uma nota sóbria à nossa celebração, tenho de dizer que essa informação funcional nem sempre estará disponível na prática. Em geral, chamamos um modelo de "completamente especificado" se as funções por trás das setas são conhecidas e de "parcialmente especificado" em caso contrário. Por exemplo, como nas redes bayesianas, podemos conhecer apenas relações probabilísticas entre pais e filhos no grafo. Se o modelo é parcialmente especificado, podemos não ser capazes de estimar o salário de Alice exatamente; em vez disso, podemos ter de fazer um enunciado de intervalo de probabilidade, como "Há de 10 a 20 por cento de chance de que seu salário seria 76.000 dólares". Mas mesmo tais respostas probabilísticas são boas o bastante para muitas aplicações. Além disso, é verdadeiramente notável quanta informação podemos extrair do diagrama causal mesmo quando não temos informação sobre as funções específicas por trás das setas, ou apenas informação muito geral, como a hipótese de "monotonicidade" que encontramos no último capítulo.
 
 Os passos 1 a 3 acima podem ser resumidos no que chamo de "primeira lei da inferência causal": *Y*<sub>*x*</sub>(*u*) = *Y*<sub>*M*<sub>*x*</sub></sub>(*u*). Esta é a mesma regra que usamos no exemplo do pelotão de fuzilamento no Capítulo 1, exceto que as funções são diferentes. A primeira lei diz que o resultado potencial *Y*<sub>*x*</sub>(*u*) pode ser imputado indo ao modelo *M*<sub>*x*</sub> (com setas para *X* apagadas) e computando o resultado *Y*(*u*) ali. Todas as quantidades estimáveis nos degraus dois e três da Escada da Causalidade seguem daí. Em suma, a redução dos contrafactuais a um algoritmo nos permite conquistar tanto território do degrau três quanto a matemática permitir — mas, é claro, nem um pouco mais.
-
 
 ## A virtude de ver as próprias hipóteses
 
@@ -200,7 +214,6 @@ Na superfície, não havia nada de revolucionário nessas equações. Economista
 Uma outra diferença importante entre SEM e MCE, além da letra do meio, é que a relação entre causas e efeitos num MCE não é necessariamente linear. As técnicas que emergem da análise de MCE são válidas para funções não lineares bem como lineares, variáveis discretas bem como contínuas. Modelos lineares de equações estruturais têm muitas vantagens e muitas desvantagens. Do ponto de vista da metodologia, são sedutoramente simples. Podem ser estimados a partir de dados observacionais por regressão linear, e você pode escolher entre dezenas de pacotes de *software* estatístico para fazer isso por você. Por outro lado, modelos lineares não podem representar curvas dose-resposta que não sejam retas. Não podem representar efeitos de limiar, como um medicamento que tem efeitos crescentes até certa dosagem e então nenhum efeito adicional. Também não podem representar interações entre variáveis. Por exemplo, um modelo linear não pode descrever uma situação em que uma variável realça ou inibe o efeito de outra variável. (Por exemplo, a Educação poderia realçar o efeito da Experiência colocando o indivíduo num emprego de carreira mais rápida que obtém aumentos anuais maiores.)
 
 Embora debates sobre as hipóteses apropriadas a fazer sejam inevitáveis, nossa mensagem principal é bastante simples: Alegrem-se! Com um modelo causal estrutural plenamente especificado, que implica um diagrama causal e todas as funções por trás dele, podemos responder a qualquer consulta contrafactual. Mesmo com um MCE parcial, em que algumas variáveis estão ocultas ou as relações dose-resposta são desconhecidas, ainda assim em muitos casos podemos responder à nossa consulta. As duas seções seguintes dão alguns exemplos.
-
 
 ## Contrafactuais e o direito
 
@@ -254,6 +267,10 @@ Em seguida, o que queriam dizer com "muito provável" e "metade do risco"? Em te
 Agora compare isso com uma versão causal da mesma conclusão: "As emissões de CO<sub>2</sub> são muito provavelmente uma causa necessária da onda de calor de 2003." Qual frase, a deles ou a nossa, você ainda lembrará amanhã? Qual você poderia explicar ao seu vizinho da porta ao lado?
 
 Não sou pessoalmente um especialista em mudança climática, de modo que peguei este exemplo de um de meus colaboradores, Alexis Hannart do Instituto Franco-Argentino de Estudo do Clima e Seus Impactos em Buenos Aires, que tem sido um grande proponente da análise causal na ciência do clima. Hannart desenha o grafo causal na Figura 8.4. Como Gases de Efeito Estufa é um nó de nível superior no modelo climático, sem setas entrando nele, ele argumenta que não há confundimento entre ele e a Resposta Climática. Da mesma forma, ele atesta a hipótese de ausência de proteção (isto é, gases de efeito estufa não podem nos proteger de ondas de calor).
+
+![Figura 8.4. Diagrama causal para o exemplo da mudança climática.](../figuras/fig_8_4.png)
+
+*Figura 8.4. Diagrama causal para o exemplo da mudança climática.*
 
 *Figura 8.4. Diagrama causal para o exemplo da mudança climática.*
 

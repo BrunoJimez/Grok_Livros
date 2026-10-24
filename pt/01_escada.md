@@ -32,6 +32,10 @@ Minhas habilidades de caça a mamutes estão um tanto enferrujadas, confesso, ma
 
 **Figura 1.1.** Causas percebidas de uma caçada bem-sucedida a mamutes.
 
+![Figura 1.1. Causas percebidas de uma caçada bem-sucedida a mamutes.](../figuras/fig_1_1.png)
+
+*Figura 1.1. Causas percebidas de uma caçada bem-sucedida a mamutes.*
+
 A Figura 1.1 mostra como poderíamos desenhar tal modelo mental. Cada ponto na Figura 1.1 representa uma causa do sucesso. Note que há múltiplas causas e que nenhuma delas é determinística. Isto é, não podemos ter certeza de que ter mais caçadores permitirá o sucesso ou de que a chuva o impedirá, mas esses fatores de fato alteram a probabilidade de sucesso.
 
 O modelo mental é a arena em que a imaginação se desenrola. Ele nos permite experimentar diferentes cenários fazendo alterações locais no modelo. Em algum lugar no modelo mental de nossos caçadores havia uma sub-rotina que avaliava o efeito do número de caçadores. Quando consideravam acrescentar mais, não precisavam reavaliar todos os outros fatores do zero. Podiam fazer uma mudança local no modelo, substituindo “Caçadores = 8” por “Caçadores = 9”, e reavaliar a probabilidade de sucesso. Essa modularidade é uma característica-chave dos modelos causais.
@@ -47,6 +51,10 @@ O primeiro, ver ou observar, implica a detecção de regularidades em nosso ambi
 Não posso provar isso, mas posso provar matematicamente que os três níveis diferem fundamentalmente, cada um liberando capacidades que os de baixo não possuem. O arcabouço que uso para mostrar isso remonta a Alan Turing, o pioneiro da pesquisa em inteligência artificial (IA), que propôs classificar um sistema cognitivo em termos das consultas que ele é capaz de responder. Essa abordagem é excepcionalmente frutífera quando falamos de causalidade, porque contorna longas e improdutivas discussões sobre o que exatamente a causalidade é e se concentra, em vez disso, na pergunta concreta e respondível “O que um raciocinador causal pode fazer?”. Ou, mais precisamente, o que um organismo que possui um modelo causal pode computar que um organismo desprovido de tal modelo não pode?
 
 **Figura 1.2.** A Escada da Causalidade, com organismos representativos em cada nível. A maioria dos animais, bem como as máquinas de aprendizado atuais, está no primeiro degrau, aprendendo por associação. Usuários de ferramentas, como os primeiros humanos, estão no segundo degrau se agem por planejamento e não meramente por imitação. Também podemos usar experimentos para aprender os efeitos de intervenções, e presume-se que seja assim que os bebês adquirem boa parte de seu conhecimento causal. Aprendizes contrafactuais, no degrau superior, podem imaginar mundos que não existem e inferir razões para fenômenos observados. (Fonte: desenho de Maayan Harel.)
+
+![Figura 1.2. A Escada da Causalidade, com organismos representativos em cada nível. A maioria dos animais, bem como as máquinas de aprendizado atuais, está no primeiro degrau, aprendendo por associação. Usuários de ferramentas, como os primeiros humanos, estão no segundo degrau se agem por planejamento e não meramente por imitação. Também podemos usar experimentos para aprender os efeitos de intervenções, e presume-se que seja assim que os bebês adquirem boa parte de seu conhecimento causal. Aprendizes contrafactuais, no degrau superior, podem imaginar mundos que não existem e inferir razões para fenômenos observados. (Fonte: desenho de Maayan Harel.)](../figuras/fig_1_2.png)
+
+*Figura 1.2. A Escada da Causalidade, com organismos representativos em cada nível. A maioria dos animais, bem como as máquinas de aprendizado atuais, está no primeiro degrau, aprendendo por associação. Usuários de ferramentas, como os primeiros humanos, estão no segundo degrau se agem por planejamento e não meramente por imitação. Também podemos usar experimentos para aprender os efeitos de intervenções, e presume-se que seja assim que os bebês adquirem boa parte de seu conhecimento causal. Aprendizes contrafactuais, no degrau superior, podem imaginar mundos que não existem e inferir razões para fenômenos observados. (Fonte: desenho de Maayan Harel.)*
 
 Enquanto Turing buscava uma classificação binária — humano ou não humano —, a nossa tem três camadas, correspondentes a consultas causais progressivamente mais poderosas. Usando esses critérios, podemos reunir os três níveis de consultas em uma única Escada da Causalidade (Figura 1.2), metáfora à qual voltaremos repetidas vezes. Vamos dedicar algum tempo a considerar cada degrau da escada em detalhe.
 
@@ -94,6 +102,10 @@ As recompensas de ter um modelo causal capaz de responder a perguntas contrafact
 
 A posição dos contrafactuais no topo da Escada da Causalidade explica por que lhes atribuo tanto ênfase como momento-chave na evolução da consciência humana. Concordo totalmente com Yuval Harari em que a representação de criaturas imaginárias foi a manifestação de uma nova capacidade, a que ele chama de Revolução Cognitiva. Seu exemplo prototípico é a escultura do Homem-Leão, encontrada na caverna de Stadel, no sudoeste da Alemanha, e hoje guardada no Museu de Ulm (ver Figura 1.3).
 
+![Figura 1.3. O Homem-Leão da caverna de Stadel. A mais antiga representação conhecida de uma criatura imaginária (metade homem e metade leão), é emblemática de uma capacidade cognitiva recém-desenvolvida, a de raciocinar sobre contrafactuais. (Fonte: foto de Yvonne Mühleis, cortesia do State Office for Cultural Heritage Baden-Württemberg / Museu de Ulm, Ulm, Alemanha.)](../figuras/fig_1_3.png)
+
+*Figura 1.3. O Homem-Leão da caverna de Stadel. A mais antiga representação conhecida de uma criatura imaginária (metade homem e metade leão), é emblemática de uma capacidade cognitiva recém-desenvolvida, a de raciocinar sobre contrafactuais. (Fonte: foto de Yvonne Mühleis, cortesia do State Office for Cultural Heritage Baden-Württemberg / Museu de Ulm, Ulm, Alemanha.)*
+
 O Homem-Leão, com cerca de 40 mil anos, é uma presa de mamute esculpida na forma de uma quimera, metade homem e metade leão. Não sabemos quem esculpiu o Homem-Leão nem qual era seu propósito, mas sabemos que humanos anatomicamente modernos o fizeram e que ele representa uma ruptura com qualquer arte ou ofício que o tivesse precedido. Antes, os humanos haviam fabricado ferramentas e arte representacional, de contas a flautas, de pontas de lança a elegantes entalhes de cavalos e outros animais. O Homem-Leão é diferente: uma criatura de pura imaginação.
 
 **Figura 1.3.** O Homem-Leão da caverna de Stadel. A mais antiga representação conhecida de uma criatura imaginária (metade homem e metade leão), é emblemática de uma capacidade cognitiva recém-desenvolvida, a de raciocinar sobre contrafactuais. (Fonte: foto de Yvonne Mühleis, cortesia do State Office for Cultural Heritage Baden-Württemberg / Museu de Ulm, Ulm, Alemanha.)
@@ -134,6 +146,10 @@ Tal representação não apenas existe, como tem simplicidade infantil: um diagr
 
 **Figura 1.4.** Diagrama causal para o exemplo do pelotão de fuzilamento. *A* e *B* representam (as ações de) os soldados *A* e *B*.
 
+![Figura 1.4. Diagrama causal para o exemplo do pelotão de fuzilamento. *A* e *B* representam (as ações de) os soldados *A* e *B*.](../figuras/fig_1_4.png)
+
+*Figura 1.4. Diagrama causal para o exemplo do pelotão de fuzilamento. *A* e *B* representam (as ações de) os soldados *A* e *B*.*
+
 Suponha que um prisioneiro esteja prestes a ser executado por um pelotão de fuzilamento. Uma certa cadeia de eventos precisa ocorrer para que isso aconteça. Primeiro, o tribunal ordena a execução. A ordem vai a um capitão, que sinaliza aos soldados do pelotão de fuzilamento (*A* e *B*) que disparem. Vamos assumir que eles são obedientes e atiradores experientes, de modo que só disparam sob comando e, se qualquer um deles atira, o prisioneiro morre.
 
 A Figura 1.4 mostra um diagrama representando a história que acabei de contar. Cada uma das incógnitas (*CO*, *C*, *A*, *B*, *D*) é uma variável verdadeiro/falso. Por exemplo, *D* = verdadeiro significa que o prisioneiro está morto; *D* = falso significa que o prisioneiro está vivo. *CO* = falso significa que a ordem do tribunal não foi emitida; *CO* = verdadeiro significa que foi, e assim por diante.
@@ -146,6 +162,10 @@ Se quisermos que nosso computador compreenda a causalidade, temos de ensiná-lo 
 
 A Figura 1.5 mostra o diagrama causal que resulta de nosso exemplo. Essa intervenção conduz inevitavelmente à morte do prisioneiro. Essa é a função causal por trás da seta que vai de *A* para *D*.
 
+![Figura 1.5. mostra o diagrama causal que resulta de nosso exemplo. Essa intervenção conduz inevitavelmente à morte do prisioneiro. Essa é a função causal por trás da seta que vai de *A* para *D*.](../figuras/fig_1_5.png)
+
+*Figura 1.5. mostra o diagrama causal que resulta de nosso exemplo. Essa intervenção conduz inevitavelmente à morte do prisioneiro. Essa é a função causal por trás da seta que vai de *A* para *D*.*
+
 **Figura 1.5.** Raciocínio sobre intervenções. O soldado *A* decide disparar; a seta de *C* para *A* é apagada, e *A* recebe o valor verdadeiro.
 
 Note que essa conclusão concorda com nosso julgamento intuitivo de que o disparo não autorizado de *A* conduzirá à morte do prisioneiro, porque a cirurgia deixa intacta a seta de *A* para *D*. Também, nosso julgamento seria de que *B* (com toda a probabilidade) não atirou; nada na decisão de *A* deveria afetar variáveis no modelo que não sejam efeitos do tiro de *A*.
@@ -155,6 +175,8 @@ Isso merece ser repetido. Se *vemos* *A* atirar, então concluímos que *B* tamb
 Note também que meramente coletar *Big Data* não nos teria ajudado a subir a escada e responder às perguntas acima. Suponha que você seja um repórter coletando registros de cenas de execução dia após dia. Seus dados consistirão de dois tipos de eventos: ou todas as cinco variáveis são verdadeiras, ou todas são falsas. Não há como esse tipo de dado, na ausência de uma compreensão de quem escuta a quem, lhe permitir (ou a qualquer algoritmo de aprendizado de máquina) predizer os resultados de persuadir o atirador *A* a não atirar.
 
 Por fim, para ilustrar o terceiro degrau da Escada da Causalidade, formulemos uma pergunta contrafactual. Suponha que o prisioneiro esteja deitado morto no chão. Disso podemos concluir (usando o nível um) que *A* atirou, *B* atirou, o capitão deu o sinal e o tribunal deu a ordem. Mas e se *A* tivesse decidido não atirar? O prisioneiro estaria vivo? Essa pergunta exige que comparemos o mundo real com um mundo fictício e contraditório em que *A* não atirou. No mundo fictício, a seta que aponta para *A* é apagada para liberar *A* de escutar *C*. Em vez disso, *A* é fixado em falso, deixando sua história passada igual à do mundo real. Assim, o mundo fictício se parece com a Figura 1.6.
+
+![Figura 1.6. **Figura 1.6.** Raciocínio contrafactual. Observamos que o prisioneiro está morto e perguntamos o que teria acontecido se o soldado *A* tivesse decidido não disparar.](../figuras/fig_1_6.png)
 
 **Figura 1.6.** Raciocínio contrafactual. Observamos que o prisioneiro está morto e perguntamos o que teria acontecido se o soldado *A* tivesse decidido não disparar.
 
@@ -173,6 +195,10 @@ Penso que você concordaria que a vacinação parece uma boa ideia. As chances d
 Posso empatizar com os pais que poderiam marchar até o departamento de saúde com cartazes dizendo “Vacinas matam!”. E os dados parecem estar do lado deles; as vacinações de fato causam mais mortes do que a própria varíola. Mas a lógica está do lado deles? Deveríamos banir a vacinação ou levar em conta as mortes evitadas?
 
 A Figura 1.7 mostra o diagrama causal para esse exemplo. Quando começamos, a taxa de vacinação era de 99 por cento. Agora fazemos a pergunta contrafactual “E se tivéssemos fixado a taxa de vacinação em zero?”. Usando as probabilidades que lhe dei acima, podemos concluir que, de 1 milhão de crianças, 20 mil teriam pegado varíola e 4 mil teriam morrido. Comparando o mundo contrafactual com o mundo real, vemos que não vacinar teria custado a vida de 3.861 crianças (a diferença entre 4.000 e 139). Devemos agradecer à linguagem dos contrafactuais por nos ajudar a evitar tais custos.
+
+![Figura 1.7. mostra o diagrama causal para esse exemplo. Quando começamos, a taxa de vacinação era de 99 por cento. Agora fazemos a pergunta contrafactual “E se tivéssemos fixado a taxa de vacinação em zero?”. Usando as probabilidades que lhe dei acima, podemos concluir que, de 1 milhão de crianças, 20 mil teriam pegado varíola e 4 mil teriam morrido. Comparando o mundo contrafactual com o mundo real, vemos que não vacinar teria custado a vida de 3.861 crianças (a diferença entre 4.000 e 139). Devemos agradecer à linguagem dos contrafactuais por nos ajudar a evitar tais custos.](../figuras/fig_1_7.png)
+
+*Figura 1.7. mostra o diagrama causal para esse exemplo. Quando começamos, a taxa de vacinação era de 99 por cento. Agora fazemos a pergunta contrafactual “E se tivéssemos fixado a taxa de vacinação em zero?”. Usando as probabilidades que lhe dei acima, podemos concluir que, de 1 milhão de crianças, 20 mil teriam pegado varíola e 4 mil teriam morrido. Comparando o mundo contrafactual com o mundo real, vemos que não vacinar teria custado a vida de 3.861 crianças (a diferença entre 4.000 e 139). Devemos agradecer à linguagem dos contrafactuais por nos ajudar a evitar tais custos.*
 
 **Figura 1.7.** Diagrama causal para o exemplo da vacinação. A vacinação é benéfica ou prejudicial?
 

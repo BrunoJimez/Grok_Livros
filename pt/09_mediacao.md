@@ -30,6 +30,10 @@ Gostaria de começar com um exemplo histórico verdadeiramente estarrecedor que 
 
 Como isso pôde acontecer? Em duas palavras: ignorância e arrogância — sempre uma combinação potente. Por volta de 1900, os principais médicos da Grã-Bretanha haviam esquecido as lições de um século antes. O médico de Scott na expedição de 1903, o Dr. Reginald Koettlitz, atribuía o escorbuto a carne contaminada. Mais ainda, acrescentava: “o benefício dos chamados ‘antiescorbúticos’ [isto é, preventivos do escorbuto, como o suco de limão] é uma ilusão.” Em sua expedição de 1911, Scott estocou carne seca que havia sido escrupulosamente inspecionada em busca de sinais de decomposição, mas nenhuma fruta cítrica ou suco (veja a Figura 9.1). A confiança que depositou na opinião do médico pode ter contribuído para a tragédia que se seguiu. Todos os cinco homens que chegaram ao Polo Sul morreram, dois de uma doença não especificada que muito provavelmente era escorbuto. Um membro da equipe voltou antes do polo e chegou vivo, mas com um caso grave de escorbuto.
 
+![Figura 9.1. ). A confiança que depositou na opinião do médico pode ter contribuído para a tragédia que se seguiu. Todos os cinco homens que chegaram ao Polo Sul morreram, dois de uma doença não especificada que muito provavelmente era escorbuto. Um membro da equipe voltou antes do polo e chegou vivo, mas com um caso grave de escorbuto.](../figuras/fig_9_1.png)
+
+*Figura 9.1. ). A confiança que depositou na opinião do médico pode ter contribuído para a tragédia que se seguiu. Todos os cinco homens que chegaram ao Polo Sul morreram, dois de uma doença não especificada que muito provavelmente era escorbuto. Um membro da equipe voltou antes do polo e chegou vivo, mas com um caso grave de escorbuto.*
+
 Com o benefício da retrospectiva, o conselho de Koettlitz beira a imperícia criminosa. Como a lição de James Lind pôde ser tão completamente esquecida — ou pior, descartada — um século depois? A explicação, em parte, é que os médicos não compreendiam de fato como as frutas cítricas agiam contra o escorbuto. Em outras palavras, não conheciam o mediador.
 
 **FIGURA 9.1.** Rações diárias dos homens na caminhada de Scott até o polo: chocolate, *pemmican* (um prato de carne preservada), açúcar, biscoitos, manteiga, chá. Conspicuamente ausente: qualquer fruta contendo vitamina C. (Fonte: Fotografia de Herbert Ponting, cortesia do Canterbury Museum, Nova Zelândia.)
@@ -56,11 +60,19 @@ O principal interesse de pesquisa de Burks, ao longo de sua carreira infelizment
 
 O debate natureza-versus-criação é, naturalmente, um debate muito antigo que continuou muito depois de Burks. Sua contribuição única foi reduzi-lo a um diagrama causal (veja a Figura 9.2), que ela usou para perguntar (e responder) à consulta: “Quanto do efeito causal se deve ao caminho direto Inteligência Parental → Inteligência da Criança (natureza), e quanto se deve ao caminho indireto Inteligência Parental → Status Social → Inteligência da Criança (criação)?”
 
+![Figura 9.2. ), que ela usou para perguntar (e responder) à consulta: “Quanto do efeito causal se deve ao caminho direto Inteligência Parental → Inteligência da Criança (natureza), e quanto se deve ao caminho indireto Inteligência Parental → Status Social → Inteligência da Criança (criação)?”](../figuras/fig_9_2.png)
+
+*Figura 9.2. ), que ela usou para perguntar (e responder) à consulta: “Quanto do efeito causal se deve ao caminho direto Inteligência Parental → Inteligência da Criança (natureza), e quanto se deve ao caminho indireto Inteligência Parental → Status Social → Inteligência da Criança (criação)?”*
+
 Nesse diagrama, Burks usou algumas setas de duas pontas, seja para representar causalidade mútua, seja simplesmente por incerteza quanto à direção da causalidade. Por simplicidade, vamos assumir que o efeito principal de ambas as setas vai da esquerda para a direita, o que torna Status Social um mediador, de modo que a inteligência dos pais eleva a sua posição social, e isso por sua vez dá à criança uma melhor oportunidade de desenvolver a sua inteligência. A variável *X* representa “outras causas remotas não medidas”.
 
 **FIGURA 9.2.** O debate natureza-versus-criação, conforme enquadrado por Barbara Burks.
 
 Em sua dissertação, Burks coletou dados de extensas visitas domiciliares a 204 famílias com crianças adotivas, que presumivelmente receberiam apenas os benefícios da criação e nenhum dos benefícios da natureza de seus pais adotivos (veja a Figura 9.3). Aplicou testes de QI a todos eles e a um grupo de controle de 105 famílias sem crianças adotivas. Além disso, administrou questionários que usou para avaliar vários aspectos do ambiente social da criança. Usando seus dados e a análise de caminhos, calculou o efeito direto do QI parental sobre o QI das crianças e descobriu que apenas 35 por cento, ou cerca de um terço, da variação do QI é herdada. Em outras palavras, pais com um QI quinze pontos acima da média tipicamente teriam filhos cinco pontos acima da média.
+
+![Figura 9.3. ). Aplicou testes de QI a todos eles e a um grupo de controle de 105 famílias sem crianças adotivas. Além disso, administrou questionários que usou para avaliar vários aspectos do ambiente social da criança. Usando seus dados e a análise de caminhos, calculou o efeito direto do QI parental sobre o QI das crianças e descobriu que apenas 35 por cento, ou cerca de um terço, da variação do QI é herdada. Em outras palavras, pais com um QI quinze pontos acima da média tipicamente teriam filhos cinco pontos acima da média.](../figuras/fig_9_3.png)
+
+*Figura 9.3. ). Aplicou testes de QI a todos eles e a um grupo de controle de 105 famílias sem crianças adotivas. Além disso, administrou questionários que usou para avaliar vários aspectos do ambiente social da criança. Usando seus dados e a análise de caminhos, calculou o efeito direto do QI parental sobre o QI das crianças e descobriu que apenas 35 por cento, ou cerca de um terço, da variação do QI é herdada. Em outras palavras, pais com um QI quinze pontos acima da média tipicamente teriam filhos cinco pontos acima da média.*
 
 **FIGURA 9.3.** Barbara Burks (à direita) interessava-se em separar os componentes “natureza” e “criação” da inteligência. Como estudante de pós-graduação, visitou as casas de mais de duzentas crianças adotivas, aplicou-lhes testes de QI e coletou dados sobre o seu ambiente social. Foi a primeira pesquisadora além de Sewall Wright a usar diagramas de caminhos e, de certos modos, antecipou Wright. (Fonte: Desenho de Dakota Harr.)
 
@@ -100,6 +112,10 @@ Ao menos de passagem, gostaria de notar a precisão da linguagem de Bickel nesse
 
 Em sua análise, Bickel sentiu que os dados deveriam ser estratificados por departamento porque os departamentos eram as unidades decisórias. Foi essa a decisão certa? Para responder a essa pergunta, começamos desenhando um diagrama causal (Figura 9.4).
 
+![Figura 9.4. , estavam certos em particionar os dados por departamentos, e o seu resultado fornece uma estimativa válida do efeito direto de Gênero sobre Desfecho. Tiveram sucesso mesmo que a linguagem de efeitos diretos e indiretos não estivesse disponível a Bickel em 1973.](../figuras/fig_9_4.png)
+
+*Figura 9.4. , estavam certos em particionar os dados por departamentos, e o seu resultado fornece uma estimativa válida do efeito direto de Gênero sobre Desfecho. Tiveram sucesso mesmo que a linguagem de efeitos diretos e indiretos não estivesse disponível a Bickel em 1973.*
+
 É também muito iluminador olhar a definição de discriminação na jurisprudência dos Estados Unidos. Ela usa terminologia contrafactual, um sinal claro de que subimos ao nível três da Escada da Causalidade. Em *Carson v. Bethlehem Steel Corp.* (1996), o Tribunal do Sétimo Circuito escreveu: “A questão central em qualquer caso de discriminação no emprego é se o empregador teria tomado a mesma ação se o empregado tivesse sido de uma raça diferente (idade, sexo, religião, origem nacional etc.) e tudo o mais tivesse sido o mesmo.” Essa definição expressa claramente a ideia de que devemos desabilitar ou “congelar” todos os caminhos causais que levam do gênero à admissão por meio de qualquer outra variável (por exemplo, qualificação, escolha de departamento etc.). Em outras palavras, a discriminação é igual ao efeito direto do gênero sobre o desfecho de admissão.
 
 **FIGURA 9.4.** Diagrama causal para o paradoxo das admissões de Berkeley — versão simples.
@@ -113,6 +129,10 @@ Para mim, a troca de cartas deles é fascinante. Não é muito frequente que pos
 Em sua carta a Bickel, Kruskal apontou que a relação entre Departamento e Desfecho poderia ter um confundidor não medido, como Estado de Residência. Elaborou um exemplo numérico para uma universidade hipotética com dois departamentos que discriminavam por sexo e produziam exatamente os mesmos dados do exemplo de Bickel. Fez isso assumindo que ambos os departamentos aceitam todos os homens do estado e todas as mulheres de fora do estado e rejeitam todos os homens de fora do estado e todas as mulheres do estado, e que esse é o seu único critério de decisão. Claramente essa política de admissão é um exemplo flagrante e de manual de discriminação. Mas, como o número total de candidatos de cada gênero aceitos e rejeitados era exatamente o mesmo do exemplo de Bickel, Bickel teria de concluir que não havia discriminação. Segundo Kruskal, os departamentos parecem inocentes porque Bickel controlou por apenas uma variável em vez de duas.
 
 Kruskal pôs o dedo exatamente no ponto fraco do artigo de Bickel: a falta de um critério claramente justificado para determinar quais variáveis controlar. Kruskal não ofereceu uma solução e, de fato, a sua carta desespera de jamais encontrar uma. Ao contrário de Kruskal, podemos desenhar um diagrama e ver exatamente qual é o problema. A Figura 9.5 mostra o diagrama causal representando o contraexemplo de Kruskal. Parece um pouco familiar? Deveria! É exatamente o mesmo diagrama que Barbara Burks desenhou em 1926, mas com variáveis diferentes. Fica-se tentado a dizer “Grandes mentes pensam igual”, mas talvez fosse mais apropriado dizer que grandes problemas atraem grandes mentes.
+
+![Figura 9.5. mostra o diagrama causal representando o contraexemplo de Kruskal. Parece um pouco familiar? Deveria! É exatamente o mesmo diagrama que Barbara Burks desenhou em 1926, mas com variáveis diferentes. Fica-se tentado a dizer “Grandes mentes pensam igual”, mas talvez fosse mais apropriado dizer que grandes problemas atraem grandes mentes.](../figuras/fig_9_5.png)
+
+*Figura 9.5. mostra o diagrama causal representando o contraexemplo de Kruskal. Parece um pouco familiar? Deveria! É exatamente o mesmo diagrama que Barbara Burks desenhou em 1926, mas com variáveis diferentes. Fica-se tentado a dizer “Grandes mentes pensam igual”, mas talvez fosse mais apropriado dizer que grandes problemas atraem grandes mentes.*
 
 **FIGURA 9.5.** Diagrama causal para o paradoxo das admissões de Berkeley — versão de Kruskal.
 
@@ -166,6 +186,10 @@ A mulher de Dana sugeriu que os gatinhos poderiam ter dado a Daisy um senso de p
 
 Mas então ocorreu a Dana que outra coisa havia mudado quando os gatinhos chegaram e partiram. Enquanto os gatinhos estavam lá, Daisy tinha de ser ou separada deles ou cuidadosamente supervisionada. Assim, passava longos períodos na casinha de transporte ou sendo observada de perto por um humano, até amarrada a um humano. Ambas as intervenções — caixote e guia — também são métodos reconhecidos de adestramento doméstico. Quando os gatinhos partiram, os Mackenzie interromperam a supervisão intensiva, e o comportamento rude retornou. Dana hipotetizou que o efeito dos gatinhos não era direto (como na teoria da matilha), mas indireto, mediado pelo caixote e pela supervisão. A Figura 9.6 mostra um grafo causal.
 
+![Figura 9.6. mostra um grafo causal.](../figuras/fig_9_6.png)
+
+*Figura 9.6. mostra um grafo causal.*
+
 Nesse ponto, Dana e a mulher tentaram um experimento. Trataram Daisy como teriam feito com gatinhos por perto, mantendo-a em um caixote e supervisionando-a cuidadosamente fora do caixote. Se os acidentes parassem, poderiam razoavelmente concluir que o mediador era responsável. Se não parassem, então o efeito direto (a psicologia da matilha) se tornaria mais plausível.
 
 **FIGURA 9.6.** Diagrama causal para o adestramento doméstico de Daisy.
@@ -196,6 +220,10 @@ Contudo, a Equação 9.4 se sustenta automaticamente em uma situação, sem apar
 
 Como a análise de mediação é tão mais fácil para modelos lineares, vejamos como é feita e quais são as armadilhas. Suponha que tenhamos um diagrama causal que se parece com a Figura 9.7. Como estamos trabalhando com um modelo linear, podemos representar a força de cada efeito com um único número. Os rótulos (coeficientes de caminho) indicam que aumentar a variável Tratamento em uma unidade aumentará a variável Mediador em duas unidades. Do mesmo modo, um aumento de uma unidade no Mediador aumentará o Desfecho em três unidades, e um aumento de uma unidade no Tratamento aumentará o Desfecho em sete unidades. Esses são todos efeitos diretos. Chegamos aqui à primeira razão pela qual os modelos lineares são tão simples: os efeitos diretos não dependem do nível do mediador. Isto é, o efeito direto controlado CDE(*m*) é o mesmo para todos os valores *m*, e podemos simplesmente falar do efeito direto.
 
+![Figura 9.7. Como estamos trabalhando com um modelo linear, podemos representar a força de cada efeito com um único número. Os rótulos (coeficientes de caminho) indicam que aumentar a variável Tratamento em uma unidade aumentará a variável Mediador em duas unidades. Do mesmo modo, um aumento de uma unidade no Mediador aumentará o Desfecho em três unidades, e um aumento de uma unidade no Tratamento aumentará o Desfecho em sete unidades. Esses são todos efeitos diretos. Chegamos aqui à primeira razão pela qual os modelos lineares são tão simples: os efeitos diretos não dependem do nível do mediador. Isto é, o efeito direto controlado CDE(*m*) é o mesmo para todos os valores *m*, e podemos simplesmente falar do efeito direto.](../figuras/fig_9_7.png)
+
+*Figura 9.7. Como estamos trabalhando com um modelo linear, podemos representar a força de cada efeito com um único número. Os rótulos (coeficientes de caminho) indicam que aumentar a variável Tratamento em uma unidade aumentará a variável Mediador em duas unidades. Do mesmo modo, um aumento de uma unidade no Mediador aumentará o Desfecho em três unidades, e um aumento de uma unidade no Tratamento aumentará o Desfecho em sete unidades. Esses são todos efeitos diretos. Chegamos aqui à primeira razão pela qual os modelos lineares são tão simples: os efeitos diretos não dependem do nível do mediador. Isto é, o efeito direto controlado CDE(*m*) é o mesmo para todos os valores *m*, e podemos simplesmente falar do efeito direto.*
+
 Qual seria o efeito total de uma intervenção que faz o Tratamento aumentar em uma unidade? Primeiro, essa intervenção causa diretamente um aumento do Desfecho em sete unidades (se mantivermos o Mediador constante). Também faz o Mediador aumentar em duas unidades. Por fim, como cada aumento de uma unidade no Mediador causa diretamente um aumento de três unidades no Desfecho, um aumento de duas unidades no Mediador levará a um aumento adicional de seis unidades no Desfecho. Assim, o aumento líquido no Desfecho, por ambos os caminhos causais, será de treze unidades. As primeiras sete unidades correspondem ao efeito direto, e as seis unidades restantes correspondem ao efeito indireto. Fácil como torta!
 
 **FIGURA 9.7.** Exemplo de um modelo linear (diagrama de caminhos) com mediação.
@@ -213,6 +241,10 @@ Contudo, rachaduras nessa edificação baseada em regressão começaram a aparec
 Levou um longo tempo, mas os praticantes da análise de mediação finalmente acordaram. Em 2001, meu falecido amigo e colega Rod McDonald escreveu: “Penso que o melhor modo de discutir a questão de detectar ou mostrar moderação ou mediação em uma regressão é pôr de lado a literatura inteira sobre esses tópicos e começar do zero.” A literatura mais recente sobre mediação parece atender ao conselho de McDonald; métodos contrafactuais e gráficos são perseguidos com muito mais atividade do que a abordagem de regressão. E em 2014, o pai da abordagem Baron-Kenny, David Kenny, postou uma nova seção em seu *site* chamada “análise de mediação causal”. Embora eu ainda não o chamasse de convertido, Kenny reconhece claramente que os tempos estão mudando e que a análise de mediação está entrando em uma nova era.
 
 Por ora, olhemos um exemplo muito simples de como as nossas expectativas dão errado quando deixamos o País das Maravilhas Linear. Considere a Figura 9.8, uma ligeira modificação da Figura 9.7, em que um candidato a emprego decidirá aceitar o emprego se e somente se o salário oferecido exceder um certo valor limiar, no nosso caso dez. A oferta salarial é determinada, como mostrado no diagrama, por 7 × Educação + 3 × Habilidade. Note que as funções que determinam Habilidade e Salário ainda se assumem lineares, mas a relação de Salário com Desfecho é não linear, porque tem um efeito limiar.
+
+![Figura 9.8. , uma ligeira modificação da Figura 9.7, em que um candidato a emprego decidirá aceitar o emprego se e somente se o salário oferecido exceder um certo valor limiar, no nosso caso dez. A oferta salarial é determinada, como mostrado no diagrama, por 7 × Educação + 3 × Habilidade. Note que as funções que determinam Habilidade e Salário ainda se assumem lineares, mas a relação de Salário com Desfecho é não linear, porque tem um efeito limiar.](../figuras/fig_9_8.png)
+
+*Figura 9.8. , uma ligeira modificação da Figura 9.7, em que um candidato a emprego decidirá aceitar o emprego se e somente se o salário oferecido exceder um certo valor limiar, no nosso caso dez. A oferta salarial é determinada, como mostrado no diagrama, por 7 × Educação + 3 × Habilidade. Note que as funções que determinam Habilidade e Salário ainda se assumem lineares, mas a relação de Salário com Desfecho é não linear, porque tem um efeito limiar.*
 
 Calculemos, para esse modelo, os efeitos total, direto e indireto associados a aumentar a Educação em uma unidade. O efeito total é claramente igual a um, porque quando a Educação passa de zero a um, o Salário vai de zero a (7 × 1) + (3 × 2) = 13, que está acima do limiar de dez, fazendo o Desfecho mudar de zero para um.
 
@@ -241,6 +273,10 @@ Isso foi em outubro de 2001, apenas quatro meses depois de eu ter apresentado um
 ## Abrace os “teria”
 
 Neste ponto devo contar a minha própria história de conversão, porque por bastante tempo fiquei bloqueado pela mesma pergunta que intrigava o estudante de Melanie Wall. Escrevi no Capítulo 4 sobre Jamie Robins (Figura 9.9), um estatístico e epidemiologista pioneiro da Harvard University que, juntamente com Sander Greenland da University of California, Los Angeles, é em grande parte responsável pela ampla adoção de modelos gráficos na epidemiologia de hoje. Colaboramos por um par de anos, de 1993 a 1995, e ele me fez pensar no problema de planos de intervenção sequenciais, que era um dos seus principais interesses de pesquisa.
+
+![Figura 9.9. ), um estatístico e epidemiologista pioneiro da Harvard University que, juntamente com Sander Greenland da University of California, Los Angeles, é em grande parte responsável pela ampla adoção de modelos gráficos na epidemiologia de hoje. Colaboramos por um par de anos, de 1993 a 1995, e ele me fez pensar no problema de planos de intervenção sequenciais, que era um dos seus principais interesses de pesquisa.](../figuras/fig_9_9.png)
+
+*Figura 9.9. ), um estatístico e epidemiologista pioneiro da Harvard University que, juntamente com Sander Greenland da University of California, Los Angeles, é em grande parte responsável pela ampla adoção de modelos gráficos na epidemiologia de hoje. Colaboramos por um par de anos, de 1993 a 1995, e ele me fez pensar no problema de planos de intervenção sequenciais, que era um dos seus principais interesses de pesquisa.*
 
 **FIGURA 9.9.** Jamie Robins, um pioneiro da inferência causal em epidemiologia. (Fonte: Fotografia de Kris Snibbe, cortesia de Harvard University Photo Services.)
 
@@ -306,6 +342,10 @@ Como qualquer bom professor sabe, o sucesso dos estudantes depende não só do q
 
 A análise de mediação é idealmente adequada para avaliar a influência de efeitos colaterais. Hong hipotetizou, portanto, que o ambiente da sala de aula havia mudado e afetara fortemente o desfecho da intervenção. Em outras palavras, postulou o diagrama causal mostrado na Figura 9.10. O Ambiente (que Hong mediu pelo nível mediano de habilidade de todos os estudantes na sala de aula) funciona como um mediador entre a intervenção “Álgebra para Todos” e os desfechos de aprendizagem dos estudantes. A pergunta, como de costume na análise de mediação, é quanto do efeito da política foi direto e quanto foi indireto.
 
+![Figura 9.10. O Ambiente (que Hong mediu pelo nível mediano de habilidade de todos os estudantes na sala de aula) funciona como um mediador entre a intervenção “Álgebra para Todos” e os desfechos de aprendizagem dos estudantes. A pergunta, como de costume na análise de mediação, é quanto do efeito da política foi direto e quanto foi indireto.](../figuras/fig_9_10.png)
+
+*Figura 9.10. O Ambiente (que Hong mediu pelo nível mediano de habilidade de todos os estudantes na sala de aula) funciona como um mediador entre a intervenção “Álgebra para Todos” e os desfechos de aprendizagem dos estudantes. A pergunta, como de costume na análise de mediação, é quanto do efeito da política foi direto e quanto foi indireto.*
+
 Interessantemente, os dois efeitos trabalharam em direções opostas. Hong descobriu que o efeito direto era positivo: a nova política levou diretamente a um aumento de cerca de 2,7 pontos nas notas dos testes. Isso era pelo menos uma mudança na direção certa, e era estatisticamente significativo (significando que tal melhora seria improvável de ocorrer por acaso). Contudo, por causa das mudanças no ambiente da sala de aula, o efeito indireto quase cancelara completamente essa melhora, reduzindo as notas dos testes em 2,3 pontos.
 
 **FIGURA 9.10.** Diagrama causal para o experimento “Álgebra para Todos”.
@@ -334,7 +374,15 @@ A descoberta do gene do fumo não deveria mudar a opinião de ninguém sobre o f
 
 Como sempre, ajuda visualizar a discussão com um diagrama causal. Fisher pensava no gene do fumo (naquela época puramente hipotético) como um confundidor do fumo e do câncer (Figura 9.11). Mas como confundidor, não é nem de longe forte o bastante para explicar o efeito esmagadoramente forte do fumo sobre o risco de câncer de pulmão. Esse é, em essência, o argumento que Jerome Cornfield fez em seu artigo de 1959 que encerrou a discussão sobre a hipótese genética.
 
+![Figura 9.11. ). Mas como confundidor, não é nem de longe forte o bastante para explicar o efeito esmagadoramente forte do fumo sobre o risco de câncer de pulmão. Esse é, em essência, o argumento que Jerome Cornfield fez em seu artigo de 1959 que encerrou a discussão sobre a hipótese genética.](../figuras/fig_9_11.png)
+
+*Figura 9.11. ). Mas como confundidor, não é nem de longe forte o bastante para explicar o efeito esmagadoramente forte do fumo sobre o risco de câncer de pulmão. Esse é, em essência, o argumento que Jerome Cornfield fez em seu artigo de 1959 que encerrou a discussão sobre a hipótese genética.*
+
 Podemos facilmente reescrever o mesmo diagrama causal como mostrado na Figura 9.12. Quando olhamos o diagrama desse modo, vemos que o comportamento de fumar é um mediador entre o gene do fumo e o câncer de pulmão. Essa minúscula mudança de perspectiva reformula completamente o debate científico. Em vez de perguntar se fumar causa câncer (uma pergunta cuja resposta conhecemos), perguntamos em vez disso como o gene funciona. Ele faz as pessoas fumarem mais e inalarem mais fundo? Ou de algum modo torna as células pulmonares mais vulneráveis ao câncer? Qual é mais forte, o efeito indireto ou o efeito direto?
+
+![Figura 9.12. Quando olhamos o diagrama desse modo, vemos que o comportamento de fumar é um mediador entre o gene do fumo e o câncer de pulmão. Essa minúscula mudança de perspectiva reformula completamente o debate científico. Em vez de perguntar se fumar causa câncer (uma pergunta cuja resposta conhecemos), perguntamos em vez disso como o gene funciona. Ele faz as pessoas fumarem mais e inalarem mais fundo? Ou de algum modo torna as células pulmonares mais vulneráveis ao câncer? Qual é mais forte, o efeito indireto ou o efeito direto?](../figuras/fig_9_12.png)
+
+*Figura 9.12. Quando olhamos o diagrama desse modo, vemos que o comportamento de fumar é um mediador entre o gene do fumo e o câncer de pulmão. Essa minúscula mudança de perspectiva reformula completamente o debate científico. Em vez de perguntar se fumar causa câncer (uma pergunta cuja resposta conhecemos), perguntamos em vez disso como o gene funciona. Ele faz as pessoas fumarem mais e inalarem mais fundo? Ou de algum modo torna as células pulmonares mais vulneráveis ao câncer? Qual é mais forte, o efeito indireto ou o efeito direto?*
 
 A resposta faz diferença para o tratamento. Se o efeito for direto, então pessoas que têm o gene de alto risco deveriam talvez receber triagem extra para câncer de pulmão. Por outro lado, se o efeito for indireto, o comportamento de fumar se torna crucial. Devemos aconselhar tais pacientes sobre o seu risco aumentado e a importância de não fumar em primeiro lugar. Se já fumam, podemos precisar intervir de modo mais agressivo, talvez com terapia de reposição de nicotina.
 
@@ -364,6 +412,10 @@ A julgar pela evidência anedótica e pela popularidade dos torniquetes entre os
 
 Os resultados do estudo, publicados em 2015, não foram o que Kragh esperava. Segundo os dados, os pacientes que tiveram torniquetes aplicados antes de chegar ao hospital não sobreviveram a uma taxa mais alta do que aqueles com lesões similares que não receberam torniquetes. Naturalmente, raciocinou Kragh, os que tinham torniquetes possivelmente tinham lesões mais graves para começar. Mas mesmo quando controlou por esse fator comparando casos de igual gravidade, os torniquetes não pareciam melhorar as taxas de sobrevivência (veja a Tabela 9.1).
 
+![Tabela 9.1. ) pode confirmar ou refutar essa hipótese.](../figuras/tab_9_1.png)
+
+*Tabela 9.1. ) pode confirmar ou refutar essa hipótese.*
+
 **TABELA 9.1.** Dados sobre sobrevivência com e sem torniquetes.
 
 Isso não é uma situação de paradoxo de Simpson. Não importa se agregamos os dados ou os estratificamos; em cada categoria de gravidade, bem como no agregado, a sobrevivência foi ligeiramente maior para soldados que *não* receberam torniquetes. (A diferença nas taxas de sobrevivência era, contudo, demasiado pequena para ser estatisticamente significativa.)
@@ -371,6 +423,10 @@ Isso não é uma situação de paradoxo de Simpson. Não importa se agregamos os
 O que deu errado? Uma possibilidade, naturalmente, é que os torniquetes não sejam melhores. Nossa crença neles poderia ser um caso de viés de confirmação. Quando um soldado recebe um torniquete e sobrevive, os seus médicos e os seus camaradas dirão: “Aquele torniquete salvou a vida dele.” Mas se o soldado não recebe um torniquete e sobrevive, ninguém dirá: “Não colocar um torniquete salvou a vida dele.” Assim, os torniquetes podem receber mais crédito do que merecem, e a não intervenção não recebe crédito algum.
 
 Mas havia outro possível viés nesse estudo, que o próprio Kragh apontou: os médicos só coletaram dados sobre aqueles soldados que sobreviveram tempo suficiente para chegar ao hospital em primeiro lugar. Para ver por que isso importa, desenhemos um diagrama causal (Figura 9.13).
+
+![Figura 9.13. Esse efeito era essencialmente zero.](../figuras/fig_9_13.png)
+
+*Figura 9.13. Esse efeito era essencialmente zero.*
 
 **FIGURA 9.13.** Diagrama causal para o exemplo dos torniquetes. A linha tracejada é um efeito causal hipotético (não sustentado pelos dados).
 
